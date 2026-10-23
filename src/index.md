@@ -26,6 +26,7 @@ The site is being built a mark at a time, beginning with the beast from the sea 
 - [Mark 3: A counterfeit resurrection](/a-counterfeit-resurrection)
 - [Mark 5: Boasting and blasphemy](/boasting-and-blasphemy)
 - [Mark 6: Worship demanded](/worship-demanded)
+- [Mark 7: War on the holy ones](/war-on-the-holy-ones)
 
 ## Fr. John's own reading is weighed too
 

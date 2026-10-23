@@ -31,4 +31,4 @@ These are verdicts on arguments, not on any person.
 
 </div>
 
-<p class="next-prev"><span>← <a href="/boasting-and-blasphemy">Mark 5: Boasting and blasphemy</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/boasting-and-blasphemy">Mark 5: Boasting and blasphemy</a></span><span><a href="/war-on-the-holy-ones">Mark 7: War on the holy ones</a> →</span></p>
