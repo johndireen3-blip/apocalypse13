@@ -27,4 +27,6 @@ Read in context ([Standard 4](/the-standards#s4)), the mark has three parts: a w
 
 Fr. John's reading gives the mark's first two parts a concrete fulfillment and a clear sequence, and it argues the third from documented reactions. Its weight rests on whether the wound was "mortal" in more than a political sense, and on whether fascination turns into worship, which is the test of mark 6. St. Irenaeus and St. Hippolytus read the mark faithfully, but leave the wound unexplained or read it of an empire. Thiel's material does not take up this mark.
 
+<p class="next-prev"><span>← <a href="/built-from-daniels-beasts">Mark 2</a></span><span><a href="/boasting-and-blasphemy">Mark 5: Boasting and blasphemy</a> →</span></p>
+
 </div>

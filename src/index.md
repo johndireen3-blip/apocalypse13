@@ -19,11 +19,12 @@ For each mark, the site asks of every reading the same questions: does it claim 
 
 ## The first marks weighed
 
-The site is being built a mark at a time, beginning with the beast from the sea in Revelation 13. The first three are ready to read, as drafts:
+The site is being built a mark at a time, beginning with the beast from the sea in Revelation 13. These are ready to read, as drafts:
 
 - [Mark 1: Power on loan from the dragon](/power-from-the-dragon)
 - [Mark 2: Built from Daniel's beasts](/built-from-daniels-beasts)
 - [Mark 3: A counterfeit resurrection](/a-counterfeit-resurrection)
+- [Mark 5: Boasting and blasphemy](/boasting-and-blasphemy)
 
 ## Fr. John's own reading is weighed too
 

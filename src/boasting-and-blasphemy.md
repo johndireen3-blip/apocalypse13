@@ -1,0 +1,32 @@
+<!--{"title":"Mark 5 Weighed: Boasting and Blasphemy | Apocalypse 13","description":"How three readings of Revelation 13 use mark 5, the mouth given to proud boasts and blasphemies against God: Irenaeus, Peter Thiel and Fr. John, weighed against the same standards.","kicker":"Mark 5 weighed","h1":"Boasting and Blasphemy","lead":"A mouth that boasts of itself and then speaks against God: what each reading points to, and whether it reaches the second half of the mark.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 5","/boasting-and-blasphemy"]],"wide":true}-->
+<div class="narrow-in" markdown>
+
+<dl class="facts">
+<dt>The mark</dt><dd>The beast is given a mouth uttering proud boasts and blasphemies, against God, his name, his dwelling and those who dwell in heaven (Revelation 13:1, 5–6; Daniel 7:8, 25; 2 Thessalonians 2:4).</dd>
+<dt>Authority</dt><dd>[[auth:scripture]]</dd>
+<dt>In depth</dt><dd><a href="https://thefirstbeast.com/boasting-and-blasphemy">Mark 5 on The First Beast</a></dd>
+</dl>
+
+## What the mark requires
+
+The mark has two halves, and read in context ([Standard 4](/the-standards#s4)) they belong together: proud boasts, and blasphemy against God and what is his (Revelation 13:5–6). Boasting of oneself is common among rulers and is not yet the mark. A reading that claims it must show the second half: words of reproach or defiance against God, his name, his dwelling or his saints (CCC 2148), or self-exaltation into God's place (2 Thessalonians 2:4; CCC 675).
+
+</div>
+
+## The three readings
+
+| Reading | Claims mark 5? | Evidence it gives | What weighs against | Standards |
+| --- | --- | --- | --- | --- |
+| **St. Irenaeus** | Yes, centrally | The one to come sets aside all idols and presents himself as the only one to be worshiped as God, fulfilling Daniel's arrogant horn and Paul's man of lawlessness (*Against Heresies* V.25.1–3) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16) met |
+| **Peter Thiel** | Not in the material reviewed | His Antichrist wins power by promising peace and safety, not by open boasting against God | Not applicable | — |
+| **Fr. John** | Yes | A documented pattern of self-exaltation: "I alone can fix it" (2016), "I am the chosen one" (2019), "the beauty of me is that I'm very rich" (2011), and greed avowed as a way of life; and words touching God: not sure he has ever asked God's forgiveness (2015), an image of himself as pope posted during the mourning for Pope Francis (2025), and a quotation calling him the "King of Israel" whom Israelis love "like he is the second coming of God" posted on the day he called himself the chosen one (2019) ([his case](https://apocalypse12.org/the-first-beast#card-5)) | Most of the evidence is the first half, boasting, which many rulers share. Each item touching God has a defense on the record: he said "chosen one" in jest and of the trade war; he said he had nothing to do with the pope image, which he called a joke; the "second coming" words were another man's. None is yet a plain reproach or defiance of God | [7](/the-standards#s7) met; [4](/the-standards#s4) partly met: boasting shown, blasphemy argued but not shown; [9](/the-standards#s9) to watch; [30](/the-standards#s30): grade not yet stated |
+
+<div class="narrow-in" markdown>
+
+## Verdict on the arguments
+
+Fr. John's evidence for the first half of the mark, proud boasts, is extensive and documented. His evidence for the second half rests on three episodes that each touch sacred things, and each has a defense on the record; taken together they show a pattern of treating God and the Church lightly, but not yet the blasphemy against God's name and dwelling that the text describes. St. Irenaeus reads the mark faithfully as the claim to divine honor that ends the beast's career. Thiel's reading does not take up this mark.
+
+These are verdicts on arguments, not on any person.
+
+</div>
