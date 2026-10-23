@@ -33,6 +33,7 @@ The site is being built a mark at a time, beginning with the beast from the sea 
 - [Mark 14: The response asked of the faithful](/the-response-of-the-faithful)
 - [Mark 4: A counterfeit lamb](/a-counterfeit-lamb), the first mark of the beast from the earth
 - [Mark 9: Deception by signs](/deception-by-signs)
+- [Mark 10: An image that speaks](/an-image-that-speaks)
 
 ## Fr. John's own reading is weighed too
 
