@@ -30,3 +30,9 @@ The beast from the earth, the false prophet, is weighed in the same way. Its mar
 | 9 | Deception by signs | Revelation 13:13–14 | Yes | Not in the material reviewed | Yes · possible | [Weighed](/deception-by-signs) |
 | 10 | An image that speaks | Revelation 13:14–15 | Yes | No; inverts it | Yes, held open · possible | [Weighed](/an-image-that-speaks) |
 | 11 | Control of buying and selling | Revelation 13:16–17 | Yes | Partly | Yes, conditions not met · probable | [Weighed](/buying-and-selling) |
+
+<div class="narrow-in" markdown>
+
+Revelation 17, the harlot who rides the beast and the ten kings, is weighed on its own page: [The Harlot and the Ten Kings](/the-harlot-and-the-ten-kings).
+
+</div>

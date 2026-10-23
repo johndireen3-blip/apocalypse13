@@ -31,4 +31,4 @@ These are verdicts on arguments, not on any person.
 
 </div>
 
-<p class="next-prev"><span>← <a href="/an-image-that-speaks">Mark 10: An image that speaks</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/an-image-that-speaks">Mark 10: An image that speaks</a></span><span><a href="/the-harlot-and-the-ten-kings">Revelation 17: The harlot and the ten kings</a> →</span></p>
