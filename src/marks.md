@@ -20,6 +20,13 @@ The marks are those Scripture gives of the beast from the sea in Revelation 13, 
 
 <div class="narrow-in" markdown>
 
-Marks 4, 9, 10 and 11 belong to the beast from the earth, the false prophet, and will be weighed in the next stage.
+The beast from the earth, the false prophet, is weighed in the same way. Its marks are being added now.
 
 </div>
+
+| # | Mark | Texts | Irenaeus | Thiel | Fr. John | Page |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 | A counterfeit lamb | Revelation 13:11–12 | Yes | Not in the material reviewed | Yes · grade to come | [Weighed](/a-counterfeit-lamb) |
+| 9 | Deception by signs | Revelation 13:13–14 |  |  |  | <span class="soon">Coming</span> |
+| 10 | An image that speaks | Revelation 13:14–15 |  |  |  | <span class="soon">Coming</span> |
+| 11 | Control of buying and selling | Revelation 13:16–17 |  |  |  | <span class="soon">Coming</span> |
