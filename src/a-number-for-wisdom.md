@@ -19,7 +19,7 @@ Read in context ([Standard 4](/the-standards#s4)), the number belongs to the fir
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Yes, without a name | The number sums up all apostasy (Noah's six hundred years; Nebuchadnezzar's statue, sixty cubits by six). He weighs names that fit and names no one: it is "more certain, and less hazardous, to await the fulfilment" (*Against Heresies* V.29.2; V.30.3) | Not applicable: he declines to apply it | [1](/the-standards#s1), [2](/the-standards#s2), [9](/the-standards#s9), [24](/the-standards#s24) met |
 | **Peter Thiel** | Not in the material reviewed | — | Not applicable | — |
-| **Fr. John** | Not as a name | He declines, with Irenaeus and Hippolytus, to fit the number to anyone's name, and offers two observations only: the 2007 purchase of the tower at 666 Fifth Avenue by the family company of the man he reads as the second beast, and John 6:66, the verse of the disciples' turning away, read beside Irenaeus's "apostasy" ([his case](https://apocalypse12.org/the-first-beast#card-13)) | The number belongs to the first beast and to a name, not to an address or another man's property; the address was not chosen by its buyers; chapter and verse numbers are much later than the text | [9](/the-standards#s9) and [24](/the-standards#s24) met: no name is computed; [4](/the-standards#s4) not met by the observations; [7](/the-standards#s7) met; [30](/the-standards#s30): he grades his own standing *against, as now argued* |
+| **Fr. John** | Not as a name | He declines, with Irenaeus and Hippolytus, to fit the number to anyone's name, and offers two observations only: the 2007 purchase of the tower at 666 Fifth Avenue by the family company of the man he reads as the second beast, and John 6:66, the verse of the disciples' turning away, read beside Irenaeus's "apostasy" ([his case](https://apocalypse12.org/the-first-beast#card-13)) | The number belongs to the first beast and to a name, not to an address or another man's property; the address was not chosen by its buyers; chapter and verse numbers are much later than the text | [9](/the-standards#s9) and [24](/the-standards#s24) met: no name is computed; [4](/the-standards#s4) not met by the observations; [7](/the-standards#s7) met; [30](/the-standards#s30): ungraded; he states his own standing as *against, as now argued* |
 
 <div class="narrow-in" markdown>
 
@@ -31,4 +31,4 @@ These are verdicts on arguments, not on any person.
 
 </div>
 
-<p class="next-prev"><span>← <a href="/a-limited-time">Mark 12: A limited time</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/a-limited-time">Mark 12: A limited time</a></span><span><a href="/the-response-of-the-faithful">Mark 14: The response asked of the faithful</a> →</span></p>

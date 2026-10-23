@@ -30,6 +30,7 @@ The site is being built a mark at a time, beginning with the beast from the sea 
 - [Mark 8: Universal reach](/universal-reach)
 - [Mark 12: A limited time](/a-limited-time)
 - [Mark 13: A number that calls for wisdom](/a-number-for-wisdom)
+- [Mark 14: The response asked of the faithful](/the-response-of-the-faithful)
 
 ## Fr. John's own reading is weighed too
 

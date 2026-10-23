@@ -15,8 +15,8 @@ The marks are those Scripture gives of the beast from the sea in Revelation 13, 
 | 7 | War on the holy ones | Revelation 13:7, 15 | Yes | No | Yes · possible | [Weighed](/war-on-the-holy-ones) |
 | 8 | Universal reach | Revelation 13:7–8 | Yes | Yes | Yes · possible | [Weighed](/universal-reach) |
 | 12 | A limited time | Revelation 13:5 | Yes | No | Yes · possible | [Weighed](/a-limited-time) |
-| 13 | A number that calls for wisdom | Revelation 13:18 | Yes, without a name | No | Not as a name · grade to come | [Weighed](/a-number-for-wisdom) |
-| 14 | The response asked of the faithful | Revelation 13:9–10 |  |  |  | <span class="soon">Coming</span> |
+| 13 | A number that calls for wisdom | Revelation 13:18 | Yes, without a name | No | Not as a name · ungraded | [Weighed](/a-number-for-wisdom) |
+| 14 | The response asked of the faithful | Revelation 13:9–10 | Weighed by fruit | Weighed by fruit | Weighed by fruit · not graded | [Weighed](/the-response-of-the-faithful) |
 
 <div class="narrow-in" markdown>
 
