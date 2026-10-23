@@ -11,7 +11,7 @@ The marks are those Scripture gives of the beast from the sea in Revelation 13, 
 | 2 | Built from Daniel's beasts | Revelation 13:1–2; Daniel 7 | Yes | Partly | Yes · probable | [Weighed](/built-from-daniels-beasts) |
 | 3 | A counterfeit resurrection | Revelation 13:3, 12, 14 | Yes | No | Yes · probable | [Weighed](/a-counterfeit-resurrection) |
 | 5 | Boasting and blasphemy | Revelation 13:1, 5–6 | Yes | No | Yes · probable | [Weighed](/boasting-and-blasphemy) |
-| 6 | Worship demanded | Revelation 13:4, 8, 12, 15 | Yes | Partly | Yes · grade to come | [Weighed](/worship-demanded) |
+| 6 | Worship demanded | Revelation 13:4, 8, 12, 15 | Yes | Partly | Yes · probable | [Weighed](/worship-demanded) |
 | 7 | War on the holy ones | Revelation 13:7, 15 |  |  |  | <span class="soon">Coming</span> |
 | 8 | Universal reach | Revelation 13:7–8 |  |  |  | <span class="soon">Coming</span> |
 | 12 | A limited time | Revelation 13:5 |  |  |  | <span class="soon">Coming</span> |
