@@ -30,3 +30,5 @@ Fr. John's evidence for the first half of the mark, proud boasts, is extensive a
 These are verdicts on arguments, not on any person.
 
 </div>
+
+<p class="next-prev"><span>← <a href="/a-counterfeit-resurrection">Mark 3: A counterfeit resurrection</a></span><span><a href="/worship-demanded">Mark 6: Worship demanded</a> →</span></p>

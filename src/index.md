@@ -25,6 +25,7 @@ The site is being built a mark at a time, beginning with the beast from the sea 
 - [Mark 2: Built from Daniel's beasts](/built-from-daniels-beasts)
 - [Mark 3: A counterfeit resurrection](/a-counterfeit-resurrection)
 - [Mark 5: Boasting and blasphemy](/boasting-and-blasphemy)
+- [Mark 6: Worship demanded](/worship-demanded)
 
 ## Fr. John's own reading is weighed too
 
