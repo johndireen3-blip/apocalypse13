@@ -26,7 +26,7 @@ The beast from the earth, the false prophet, is weighed in the same way. Its mar
 
 | # | Mark | Texts | Irenaeus | Thiel | Fr. John | Page |
 | --- | --- | --- | --- | --- | --- | --- |
-| 4 | A counterfeit lamb | Revelation 13:11–12 | Yes | Not in the material reviewed | Yes · grade to come | [Weighed](/a-counterfeit-lamb) |
-| 9 | Deception by signs | Revelation 13:13–14 |  |  |  | <span class="soon">Coming</span> |
+| 4 | A counterfeit lamb | Revelation 13:11–12 | Yes | Not in the material reviewed | Yes · probable | [Weighed](/a-counterfeit-lamb) |
+| 9 | Deception by signs | Revelation 13:13–14 | Yes | Not in the material reviewed | Yes · grade to come | [Weighed](/deception-by-signs) |
 | 10 | An image that speaks | Revelation 13:14–15 |  |  |  | <span class="soon">Coming</span> |
 | 11 | Control of buying and selling | Revelation 13:16–17 |  |  |  | <span class="soon">Coming</span> |
