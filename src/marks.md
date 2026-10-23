@@ -29,4 +29,4 @@ The beast from the earth, the false prophet, is weighed in the same way. Its mar
 | 4 | A counterfeit lamb | Revelation 13:11–12 | Yes | Not in the material reviewed | Yes · probable | [Weighed](/a-counterfeit-lamb) |
 | 9 | Deception by signs | Revelation 13:13–14 | Yes | Not in the material reviewed | Yes · possible | [Weighed](/deception-by-signs) |
 | 10 | An image that speaks | Revelation 13:14–15 | Yes | No; inverts it | Yes, held open · possible | [Weighed](/an-image-that-speaks) |
-| 11 | Control of buying and selling | Revelation 13:16–17 | Yes | Partly | Yes, conditions not met · grade to come | [Weighed](/buying-and-selling) |
+| 11 | Control of buying and selling | Revelation 13:16–17 | Yes | Partly | Yes, conditions not met · probable | [Weighed](/buying-and-selling) |
