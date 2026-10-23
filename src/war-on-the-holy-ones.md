@@ -31,4 +31,4 @@ These are verdicts on arguments, not on any person.
 
 </div>
 
-<p class="next-prev"><span>← <a href="/worship-demanded">Mark 6: Worship demanded</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/worship-demanded">Mark 6: Worship demanded</a></span><span><a href="/universal-reach">Mark 8: Universal reach</a> →</span></p>
