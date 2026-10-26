@@ -1,4 +1,4 @@
-<!--{"title":"Mark 11 Weighed: Control of Buying and Selling | Apocalypse 13","description":"How three readings of Revelation 13 use mark 11, the mark without which no one can buy or sell: Irenaeus, Peter Thiel and Fr. John, weighed against the same standards, with the evidence on Tools for Humanity's World ID.","kicker":"Mark 11 weighed","h1":"Control of Buying and Selling","lead":"A stamp on hand or forehead, bearing the beast's name or number, without which no one can buy or sell: what each reading points to, and whether it shows the mark or only the tools.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 11","/buying-and-selling"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Mark 11 Weighed: Control of Buying and Selling | Apocalypse 13","description":"How three readings of Revelation 13 use mark 11, the mark without which no one can buy or sell: Irenaeus, Peter Thiel and Fr. John, weighed against the same standards, with the evidence on Tools for Humanity's World ID.","kicker":"Mark 11 weighed","h1":"Control of Buying and Selling","lead":"A stamp on hand or forehead, bearing the beast's name or number, without which no one can buy or sell: what each reading points to, and whether it shows the mark or only the tools.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 11","/buying-and-selling"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -10,6 +10,8 @@
 ## What the mark requires
 
 Read in context ([Standard 4](/the-standards#s4)), the mark is universal, forced, tied to buying and selling, bears the beast's name or number, and is joined to worship (14:9). A technology of identity or payment is not the mark by itself; it becomes the mark only when it is required and joined to the worship of the beast. A reading that claims the mark must say how close any system comes to those conditions, and must not frighten readers by calling every new technology the mark ([Standard 24](/the-standards#s24); [Standard 27](/the-standards#s27)).
+
+Every reading should also keep in view what the mark counterfeits. St. Peter Chrysologus, Doctor of the Church, says of creation that “the second Adam stamped his image on the first Adam when he created him,” and he asks the reborn to “put on the complete image of our Creator… in innocence, simplicity, gentleness, patience, humility, mercy, harmony” (Sermon 117; Office of Readings, Saturday of the Twenty-ninth Week in Ordinary Time) [[auth:father]]. The beast's stamp is pressed over an image God put there first, and the best preparation against it is to bear that image more fully.
 
 </div>
 

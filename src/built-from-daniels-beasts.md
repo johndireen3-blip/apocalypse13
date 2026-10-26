@@ -1,4 +1,4 @@
-<!--{"title":"Mark 2 Weighed: Built from Daniel's Beasts | Apocalypse 13","description":"How three readings of Revelation 13 use mark 2, the seven heads and ten horns drawn from Daniel 7: Irenaeus, Peter Thiel and Fr. John, weighed against the same standards.","kicker":"Mark 2 weighed","h1":"Built from Daniel's Beasts","lead":"Seven heads, ten horns, and Daniel's four kingdoms in one body: how each reading counts them.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 2","/built-from-daniels-beasts"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Mark 2 Weighed: Built from Daniel's Beasts | Apocalypse 13","description":"How three readings of Revelation 13 use mark 2, the seven heads and ten horns drawn from Daniel 7: Irenaeus, Peter Thiel and Fr. John, weighed against the same standards.","kicker":"Mark 2 weighed","h1":"Built from Daniel's Beasts","lead":"Seven heads, ten horns, and Daniel's four kingdoms in one body: how each reading counts them.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 2","/built-from-daniels-beasts"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">

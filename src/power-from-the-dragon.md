@@ -1,4 +1,4 @@
-<!--{"title":"Mark 1 Weighed: Power on Loan from the Dragon | Apocalypse 13","description":"How three readings of Revelation 13 use mark 1, the dragon's gift of power and throne to the beast: Irenaeus, Peter Thiel and Fr. John, weighed against the same standards.","kicker":"Mark 1 weighed","h1":"Power on Loan from the Dragon","lead":"Three readings, one mark, the same standards. Verdicts are on the arguments, never on persons.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 1","/power-from-the-dragon"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Mark 1 Weighed: Power on Loan from the Dragon | Apocalypse 13","description":"How three readings of Revelation 13 use mark 1, the dragon's gift of power and throne to the beast: Irenaeus, Peter Thiel and Fr. John, weighed against the same standards.","kicker":"Mark 1 weighed","h1":"Power on Loan from the Dragon","lead":"Three readings, one mark, the same standards. Verdicts are on the arguments, never on persons.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 1","/power-from-the-dragon"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
