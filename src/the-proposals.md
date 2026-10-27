@@ -1,5 +1,5 @@
-<!--{"reviewed":"2026-10-26","title":"The Proposals | Apocalypse 13","description":"The readings of Revelation 13 weighed on this site: St. Irenaeus as the classic reading, Peter Thiel's thesis, and Fr. John's own proposal, each stated as its holder would state it.","kicker":"The readings","h1":"The Proposals","lead":"Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).","crumbs":[["Home","/"],["The Proposals","/the-proposals"]]}-->
-Three readings are weighed in this first stage. More will be added, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter.
+<!--{"reviewed":"2026-10-26","title":"The Proposals | Apocalypse 13","description":"The readings of Revelation 13 weighed on this site: St. Irenaeus as the classic reading, Fr. Charles Arminjon's synthesis of the tradition, Peter Thiel's thesis, and Fr. John's own proposal, each stated as its holder would state it.","kicker":"The readings","h1":"The Proposals","lead":"Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).","crumbs":[["Home","/"],["The Proposals","/the-proposals"]]}-->
+Four readings are weighed so far. More will be added, Fr. Vincent Miceli's next, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter.
 
 <div class="card proposal" markdown>
 
@@ -8,6 +8,18 @@ Three readings are weighed in this first stage. More will be added, each stated 
 St. Irenaeus of Lyon, writing around A.D. 180, gives the earliest full reading of the beast by a Father of the Church (*Against Heresies* V.25–30). He reads the beast from the sea as one man to come at the end, who receives all the power of the devil, sets himself up to be worshiped as God, and rises among ten kings into whom the Roman Empire is divided. He reads the beast from the earth as his armor-bearer, the false prophet. He will not guess the beast's name: the number, he says, was left hidden so that it would be recognized only when it is fulfilled (V.30.3).
 
 He is weighed here as the classic reading because he applies the text to no one in the present, so his reading shows what a faithful reading of the marks looks like before any application is made. St. Hippolytus and St. Cyril of Jerusalem are drawn in where they add to him.
+
+</div>
+
+<div class="card proposal" markdown>
+
+## Fr. Charles Arminjon: the tradition gathered [[auth:theologian]]
+
+Fr. Charles Arminjon, a French priest, preached nine conferences in 1881 that were published as *The End of the Present World and the Mysteries of the Future Life*. St. Thérèse of Lisieux counted reading it among the great graces of her life. In the Second Conference he gathers the Fathers and Doctors, above all Augustine, Jerome, Thomas, Bellarmine and Suárez, into one account. The Antichrist will be one man, possessed by Satan from his youth. He will demand worship as God, work false wonders, persecute the Church across the whole earth for forty-two months, and be struck down by Christ.
+
+He reads one beast only, and gives the second beast's signs to the Antichrist himself. Like Irenaeus he names no one and will not decode 666. From the signs of his own century he judged the Antichrist's nearness "more probable" than his remoteness.
+
+He is weighed here as the tradition's synthesis on the eve of the twentieth century, and because Fr. John reads with him. Page numbers are to the Sophia Institute Press edition (2008).
 
 </div>
 
