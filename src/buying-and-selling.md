@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Mark 11 Weighed: Control of Buying and Selling | Apocalypse 13","description":"How four readings of Revelation 13 use mark 11, the mark without which no one can buy or sell: Irenaeus, Arminjon, Peter Thiel and Fr. John, weighed against the same standards, with the evidence on Tools for Humanity's World ID.","kicker":"Mark 11 weighed","h1":"Control of Buying and Selling","lead":"A stamp on hand or forehead, bearing the beast's name or number, without which no one can buy or sell: what each reading points to, and whether it shows the mark or only the tools.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 11","/buying-and-selling"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Mark 11 Weighed: Control of Buying and Selling | Apocalypse 13","description":"How five readings of Revelation 13 use mark 11, the mark without which no one can buy or sell: Irenaeus, Arminjon, Miceli, Peter Thiel and Fr. John, weighed against the same standards, with the evidence on Tools for Humanity's World ID.","kicker":"Mark 11 weighed","h1":"Control of Buying and Selling","lead":"A stamp on hand or forehead, bearing the beast's name or number, without which no one can buy or sell: what each reading points to, and whether it shows the mark or only the tools.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 11","/buying-and-selling"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -15,12 +15,13 @@ Every reading should also keep in view what the mark counterfeits. St. Peter Chr
 
 </div>
 
-## The four readings
+## The five readings
 
 | Reading | Claims mark 11? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Yes | The mark and the number belong to the one to come, and are received by those who worship him (*Against Heresies* V.28.2; V.30) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16) met |
 | **Fr. Charles Arminjon** (1881) | Yes | "This mark will be a sign of apostasy" (*The End of the Present World*, p. 49); those who refuse it "will be outlawed," barred from buying and selling (p. 49) | He identifies the mark with no object or institution of his time | [1](/the-standards#s1) met; [9](/the-standards#s9) met |
+| **Fr. Vincent Miceli, S.J.** (1981) | Partly | The second beast brands men "on the forehead or on the right hand with the mark of the Prince of Darkness" (*The Antichrist*, p. 37) | Buying and selling are not taken up in the chapters read so far; he identifies the mark with nothing | [9](/the-standards#s9) met |
 | **Peter Thiel** | Partly | His world state would control science and technology for "peace and safety"; he is himself a co-founder of PayPal, a payment system, and of Palantir, a data-analysis company used by governments | He does not read a mark of buying and selling, and he defends rather than warns against the technologies others see in it | — |
 | **Fr. John** | Yes, conditions not met | He holds his own test: the mark is recognized when one cannot buy or sell without it and must worship to receive it, and neither is met. Three lines: (1) Tools for Humanity's World, founded by Sam Altman, which reads each person's iris to issue a World ID, now held by more than 18 million people in over 160 countries, launched in the U.S. in 2025, tied to a Visa card for the scanned, a dollar stablecoin, Tinder, Zoom and a 2026 suite for banks, and suspended or investigated by more than a dozen nations; (2) the first beast's name on the means of buying and selling: his signature on currency, his face on coins, and his family's stablecoin; (3) the second beast among the builders: Altman beside the president at Stargate, Kushner's AI company built on OpenAI and backed by payment-company founders, with no direct tie to Tools for Humanity found ([his case](https://apocalypse12.org/the-second-beast#card-11)) | World ID is voluntary and no system is required to buy or sell; none requires worship; Tools for Humanity is not Kushner's company, and links through Altman and shared investors are association, not evidence; many nations resist it; a name on money and a family crypto business are conflicts of interest, not the mark | [7](/the-standards#s7) met; [9](/the-standards#s9) met: he says neither condition is met; [24](/the-standards#s24) met: no technology is called the mark; [4](/the-standards#s4) not met as yet; [30](/the-standards#s30): graded *probable*, not yet seen |
 
@@ -31,6 +32,8 @@ Every reading should also keep in view what the mark counterfeits. St. Peter Chr
 Fr. John's case on this mark is careful: he states his own test, says plainly that neither of its conditions is met, and calls nothing the mark. The evidence he gathers is real and well documented: an identity system that reads the human eye, spreading into payments, banking and daily life, and resisted by many nations; the first beast's name moving onto money; and the second beast near the builders of AI and payments. As a watch on how the mark could become possible, it is sound and in keeping with the Church's warnings about technology. As an argument that the mark is present, or that the man he names is building it, it does not yet reach: the systems are voluntary, no worship is joined to them, and no direct link between Kushner and Tools for Humanity has been found. St. Irenaeus reads the mark faithfully of the end. Thiel's reading turns from the danger the others see in these tools.
 
 Arminjon reads the mark as a sign of apostasy that shuts its refusers out of trade, close to Fr. John's own test, and names no object.
+
+Miceli mentions the mark but not buying and selling in the chapters read so far.
 
 These are verdicts on arguments, not on any person.
 

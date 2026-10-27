@@ -1,5 +1,5 @@
-<!--{"reviewed":"2026-10-26","title":"The Proposals | Apocalypse 13","description":"The readings of Revelation 13 weighed on this site: St. Irenaeus as the classic reading, Fr. Charles Arminjon's synthesis of the tradition, Peter Thiel's thesis, and Fr. John's own proposal, each stated as its holder would state it.","kicker":"The readings","h1":"The Proposals","lead":"Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).","crumbs":[["Home","/"],["The Proposals","/the-proposals"]]}-->
-Four readings are weighed so far. More will be added, Fr. Vincent Miceli's next, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter.
+<!--{"reviewed":"2026-10-26","title":"The Proposals | Apocalypse 13","description":"The readings of Revelation 13 weighed on this site: St. Irenaeus as the classic reading, Fr. Charles Arminjon's synthesis of the tradition, Fr. Vincent Miceli's caution against theology-fiction, Peter Thiel's thesis, and Fr. John's own proposal, each stated as its holder would state it.","kicker":"The readings","h1":"The Proposals","lead":"Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).","crumbs":[["Home","/"],["The Proposals","/the-proposals"]]}-->
+Five readings are weighed so far. More will be added, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter.
 
 <div class="card proposal" markdown>
 
@@ -20,6 +20,18 @@ Fr. Charles Arminjon (1824–1885), a priest of Chambéry in Savoy, was ordained
 He reads one beast only, and gives the second beast's signs to the Antichrist himself. Like Irenaeus he names no one and will not decode 666. He warned that present calamities cannot prove the end is near (p. 13), yet from the signs of his own century he judged the Antichrist's nearness "more probable" than his remoteness, adding that centuries are little "compared with the years of eternity" (p. 21).
 
 He is weighed here as the tradition's synthesis on the eve of the twentieth century, and because Fr. John reads with him. Page numbers are to the English translation by Susan Conroy and Peter McEnerny (Sophia Institute Press, 2008).
+
+</div>
+
+<div class="card proposal" markdown>
+
+## Fr. Vincent Miceli, S.J.: theology, not theology-fiction [[auth:theologian]]
+
+Fr. Vincent P. Miceli, a Jesuit priest, wrote *The Antichrist* (1981, with the *nihil obstat* and *imprimatur* of the Archdiocese of New York) "in order to prevent the faithful from falling into erroneous predictions" by setting out the Church's teaching afresh (p. 16). With "all the Fathers and theologians" he holds that the Antichrist will be one individual person (p. 18), preceded by many lesser antichrists, his "types" and "precursors" (p. 33). He distinguishes the two beasts as the text does: the beast from the earth is the false prophet, the first beast's assistant (pp. 37–38).
+
+His chief warning is against "theology-fiction": "the presentation of personal speculations as *facts* found in these prophecies" (p. 15). His rule is that "the intelligent and clear must be presented with discernment; the mysterious left for explanation by the events" (p. 21). He names no one, sets no date, and reads the irreligion of his own age as a warning, not a fulfillment.
+
+He is weighed here as a modern Catholic theologian writing against the speculation of his day. Only chapters 1–3 have been read so far; his column will be completed as the rest is read.
 
 </div>
 

@@ -11,7 +11,7 @@ For each mark, the site asks of every reading the same questions: does it claim 
 
 <div class="grid" style="margin-top:28px">
 <a class="card door" href="/marks"><span class="num">Layer 1</span><h3>The marks weighed</h3><p>One mark at a time, the readings side by side.</p></a>
-<a class="card door" href="/the-proposals"><span class="num">The readings</span><h3>The proposals</h3><p>A classic reading from the Fathers, Arminjon's synthesis of the tradition, Peter Thiel's, and Fr. John's own.</p></a>
+<a class="card door" href="/the-proposals"><span class="num">The readings</span><h3>The proposals</h3><p>A classic reading from the Fathers, Arminjon's synthesis of the tradition, Miceli's caution, Peter Thiel's, and Fr. John's own.</p></a>
 <a class="card door" href="/the-standards"><span class="num">Layer 2</span><h3>The standards</h3><p>Thirty questions every reading is asked, beginning with the Church's criteria.</p></a>
 </div>
 
