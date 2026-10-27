@@ -31,7 +31,7 @@ Fr. Vincent P. Miceli, a Jesuit priest, wrote *The Antichrist* (1981, with the *
 
 His chief warning is against "theology-fiction": "the presentation of personal speculations as *facts* found in these prophecies" (p. 15). His rule is that "the intelligent and clear must be presented with discernment; the mysterious left for explanation by the events" (p. 21). He names no one, sets no date, and reads the irreligion of his own age as a warning, not a fulfillment.
 
-He is weighed here as a modern Catholic theologian writing against the speculation of his day. Surveying the Middle Ages, he judges that holy men who believed the Antichrist had already come "allowed themselves to be deceived" (p. 85), and that "all chiliastic movements outlive the nonfulfillment of their prophecies" (p. 97). Chapters 1–6 have been read so far; chapters 4–6 mostly report the Fathers and medieval writers, and his column will be completed as the rest is read.
+He is weighed here as a modern Catholic theologian writing against the speculation of his day. Surveying the Middle Ages, he judges that holy men who believed the Antichrist had already come "allowed themselves to be deceived" (p. 85), and that "all chiliastic movements outlive the nonfulfillment of their prophecies" (p. 97). Chapters 1–7 have been read so far; chapters 4–7 mostly report the Fathers, the medieval writers and Newman, and his column will be completed as the rest is read.
 
 </div>
 
