@@ -19,7 +19,7 @@ Read in context ([Standard 4](/the-standards#s4)), the mark has three parts: a w
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus, with St. Hippolytus** | Yes | Irenaeus quotes 13:3 among the Antichrist's signs (*Against Heresies* V.28.2); Hippolytus reads the wound as the empire struck down and restored (*On Christ and Antichrist* 49) | Irenaeus does not explain the wound; the Fathers' readings differ | [1](/the-standards#s1), [2](/the-standards#s2) met; [9](/the-standards#s9) met (no one named) |
 | **Fr. Charles Arminjon** (1881) | Yes | The first of the false miracles is "an apparent resurrection": "he will be mortally wounded in the head. For a time he will be seen lifeless, apparently dead. Then, suddenly, he will rise" (*The End of the Present World*, p. 46) | A literal wound in one man's body, where St. Hippolytus reads the empire; he does not say how the world's fascination follows | [1](/the-standards#s1), [2](/the-standards#s2) met; [9](/the-standards#s9) met (no one named) |
-| **Fr. Vincent Miceli, S.J.** (1981) | Not in chs. 1–4 | Not taken up in the chapters read so far; reporting St. Cyril, he notes only that the Antichrist will "pretend to raise the dead" (*The Antichrist*, p. 59) | Not applicable | — |
+| **Fr. Vincent Miceli, S.J.** (1981) | Partly, by report | Reporting the medieval *Pricke of Conscience*: "He feigns resurrection from the dead" (*The Antichrist*, p. 91); reporting St. Cyril, he will "pretend to raise the dead" (p. 59) | He gives no reading of his own, and does not link the feigned rising to 13:3 | — |
 | **Peter Thiel** | Not in the material reviewed | None | Not applicable | *To check against the First Things essays* |
 | **Fr. John** | Yes | The loss of office in 2020–21 and the chain of events that followed (January 6, a second impeachment, four indictments and a conviction) are the wound; the re-election of November 2024 and the return to power in January 2025 are the healing. The world's fascination: TIME's 2024 Person of the Year essay, world leaders and business leaders aligning with him ([his case](https://apocalypse12.org/the-first-beast#card-3)) | Whether a lost election seems a mortal wound is a judgment, and the text speaks of a wound "by the sword" (13:14). Others read the wound as the Butler shooting of July 13, 2024: nearer the sword, but not mortal, and with no loss of power. A return from ruin alone is not unique: Lula in Brazil returned to the presidency after prison. Fascination is not yet worship | [4](/the-standards#s4) partly met: wound and healing shown, fascination argued, worship still to be shown (mark 6); [7](/the-standards#s7) met; [30](/the-standards#s30): graded *probable* |
 
@@ -33,6 +33,6 @@ Fr. John's reading gives the mark's first two parts a concrete fulfillment and a
 
 Arminjon reads the wound literally, as a feigned death and rising of one man, a reading the text allows but does not require.
 
-Miceli does not take up the wound in the chapters read so far.
+Miceli reports a feigned resurrection only from a medieval poem, with no reading of his own.
 
 </div>
