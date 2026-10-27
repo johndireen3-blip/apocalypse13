@@ -19,7 +19,7 @@ Read in context ([Standard 4](/the-standards#s4)), the number belongs to the fir
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Yes, without a name | The number sums up all apostasy (Noah's six hundred years; Nebuchadnezzar's statue, sixty cubits by six). He weighs names that fit and names no one: it is "more certain, and less hazardous, to await the fulfilment" (*Against Heresies* V.29.2; V.30.3) | Not applicable: he declines to apply it | [1](/the-standards#s1), [2](/the-standards#s2), [9](/the-standards#s9), [24](/the-standards#s24) met |
 | **Fr. Charles Arminjon** (1881) | Yes, without a name | The Fathers' search for the key to the number "has come to nothing"; with St. Irenaeus, its meaning is to remain unknown "until the fulfillment" (*The End of the Present World*, pp. 51–52) | Not applicable: he declines to apply it | [1](/the-standards#s1), [9](/the-standards#s9) met |
-| **Fr. Vincent Miceli, S.J.** (1981) | Not in chs. 1–3 | Not taken up in the chapters read so far | Not applicable | — |
+| **Fr. Vincent Miceli, S.J.** (1981) | Reports Irenaeus, without a name | He reports Irenaeus's reading of the number, Noah's six hundred years and the cubits of Nebuchadnezzar's statue, and his warning that name-guessing opens "an endless futile activity" (*The Antichrist*, pp. 53, 55) | Not applicable: he offers no reading of his own | [9](/the-standards#s9) met |
 | **Peter Thiel** | Not in the material reviewed | — | Not applicable | — |
 | **Fr. John** | Not as a name | He declines, with Irenaeus and Hippolytus, to fit the number to anyone's name, and offers two observations only: the 2007 purchase of the tower at 666 Fifth Avenue by the family company of the man he reads as the second beast, and John 6:66, the verse of the disciples' turning away, read beside Irenaeus's "apostasy" ([his case](https://apocalypse12.org/the-first-beast#card-13)) | The number belongs to the first beast and to a name, not to an address or another man's property; the address was not chosen by its buyers; chapter and verse numbers are much later than the text | [9](/the-standards#s9) and [24](/the-standards#s24) met: no name is computed; [4](/the-standards#s4) not met by the observations; [7](/the-standards#s7) met; [30](/the-standards#s30): ungraded; he states his own standing as *against, as now argued* |
 
@@ -31,7 +31,7 @@ On the mark that has drawn the most speculation, Fr. John's reading shows the mo
 
 Arminjon, with St. Irenaeus, declines to decode the number.
 
-Miceli does not take up the number in the chapters read so far.
+Miceli reports St. Irenaeus's reading of the number and his warning against guessing the name, and offers none of his own.
 
 These are verdicts on arguments, not on any person.
 

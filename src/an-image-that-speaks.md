@@ -19,7 +19,7 @@ Read in context ([Standard 4](/the-standards#s4)), the mark has four parts: an i
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Yes | The false prophet "shall order an image of the beast to be made, and he shall give breath to the image, so that the image shall speak, and he shall cause those to be slain who will not adore it" (*Against Heresies* V.28.2) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16) met |
 | **Fr. Charles Arminjon** (1881) | Yes | "He will make a statue speak; demons will use a tree or a lifeless piece of wood as an instrument" (*The End of the Present World*, p. 47); where he is absent, men "will be obliged to pay homage to his image or statue" (p. 68) | He gives the image to the Antichrist rather than to the false prophet, and identifies it with nothing of his day | [1](/the-standards#s1), [16](/the-standards#s16) met |
-| **Fr. Vincent Miceli, S.J.** (1981) | Not in chs. 1–3 | Not taken up in the chapters read so far | Not applicable | — |
+| **Fr. Vincent Miceli, S.J.** (1981) | Partly, reporting Irenaeus | Nebuchadnezzar's statue is "a prefiguration of the future statue in honor of the Antichrist" (*The Antichrist*, p. 53) | Nothing yet on the image's speaking or on who makes it | [16](/the-standards#s16) met |
 | **Peter Thiel** | No; he inverts it | For Thiel artificial intelligence is not the danger: the Antichrist is the one who would halt it, "a luddite who wants to stop all science," and he calls AI regulation the Antichrist's program | He does not engage the image of 13:14–15; his reading sets him against the Church's call for AI to be governed for the common good (*Magnifica Humanitas*; *Antiqua et Nova*) | [3](/the-standards#s3) not met on this point: the analogy of faith |
 | **Fr. John** | Yes, held open | AI as the image, the means of its voice, or the means of the mark. Machine-made images of the first beast spread to the world: the golden statue in the Gaza video he posted (2025), the image as pope (2025), the image as Christ the healer (2026). The second beast's hand in the machines: Jared Kushner co-founded Brain Co., which builds AI applications on OpenAI's models for "government institutions" and others, funded through his own fund (2025) ([his case](https://apocalypse12.org/the-second-beast#card-10)) | None of the images was made at Kushner's urging or honored by command; the Gaza video was satire by others and the Christ image was taken down; Brain Co. is one of many AI firms; no image has been given breath and enforced on pain of death | [7](/the-standards#s7) met; [4](/the-standards#s4) not met as yet: an image honored by command is not shown; [19](/the-standards#s19) met: the open question is labeled as open; [30](/the-standards#s30): graded *possible*, not yet seen |
 
@@ -31,7 +31,7 @@ Fr. John holds this mark open, which is the honest place for it, and he joins tw
 
 Arminjon reads the image as a statue through which demons speak, and identifies it with nothing of his own day.
 
-Miceli does not take up the image in the chapters read so far.
+Miceli, reporting St. Irenaeus, reads Nebuchadnezzar's statue as a type of the image, and has not yet taken up its speaking.
 
 These are verdicts on arguments, not on any person.
 
