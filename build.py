@@ -15,7 +15,7 @@ CONFIG = {
     "about_blurb": ("Every reading of Revelation 13, Fr. John's included, weighed in the same way: against the marks "
                     "Scripture and the Church reveal, and against the Church's standards for reading Scripture. "
                     "Verdicts are on arguments, never on persons."),
-    "contact_email": None,
+    "contact_email": "frjohn@apocalypse12.org",
     "default_credit": "claude",
     "nav": [("/", "Home"), ("/marks", "The Marks Weighed"), ("/the-proposals", "The Proposals"),
             ("/the-standards", "The Standards"), ("/about", "About"), ("/contact", "Contact")],
