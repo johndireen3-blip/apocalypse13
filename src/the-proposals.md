@@ -15,11 +15,11 @@ He is weighed here as the classic reading because he applies the text to no one 
 
 ## Fr. Charles Arminjon: the tradition gathered [[auth:theologian]]
 
-Fr. Charles Arminjon, a French priest, preached nine conferences in 1881 that were published as *The End of the Present World and the Mysteries of the Future Life*. St. Thérèse of Lisieux counted reading it among the great graces of her life. In the Second Conference he gathers the Fathers and Doctors, above all Augustine, Jerome, Thomas, Bellarmine and Suárez, into one account. The Antichrist will be one man, possessed by Satan from his youth. He will demand worship as God, work false wonders, persecute the Church across the whole earth for forty-two months, and be struck down by Christ.
+Fr. Charles Arminjon (1824–1885), a French priest, preached nine conferences at the cathedral of Chambéry, published in 1881 as *The End of the Present World and the Mysteries of the Future Life*. St. Thérèse of Lisieux read it in 1887, at fourteen, and wrote that reading it "was one of the greatest graces of my life." In the Second Conference he gathers the Fathers and Doctors, above all Augustine, Jerome, Thomas, Bellarmine and Suárez, into one account. The Antichrist will be one man, possessed by Satan from his youth. He will demand worship as God, work false wonders, persecute the Church across the whole earth for forty-two months, and be struck down by Christ.
 
 He reads one beast only, and gives the second beast's signs to the Antichrist himself. Like Irenaeus he names no one and will not decode 666. He warned that present calamities cannot prove the end is near (p. 13), yet from the signs of his own century he judged the Antichrist's nearness "more probable" than his remoteness, adding that centuries are little "compared with the years of eternity" (p. 21).
 
-He is weighed here as the tradition's synthesis on the eve of the twentieth century, and because Fr. John reads with him. Page numbers are to the Sophia Institute Press edition (2008).
+He is weighed here as the tradition's synthesis on the eve of the twentieth century, and because Fr. John reads with him. Page numbers are to the English translation by Susan Conroy and Peter McEnerny (Sophia Institute Press, 2008).
 
 </div>
 
