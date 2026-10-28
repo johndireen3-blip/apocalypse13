@@ -1,5 +1,5 @@
 <!--{"reviewed":"2026-10-26","title":"The Readings of Revelation 13 | Apocalypse 13","description":"The five readings of Revelation 13 weighed here, each stated at its best: Irenaeus, Arminjon, Miceli, Peter Thiel and Fr. John's own proposal.","kicker":"The readings","h1":"The Proposals","lead":"Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).","crumbs":[["Home","/"],["The Proposals","/the-proposals"]]}-->
-Five readings are weighed so far. More will be added, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter.
+Five readings are weighed so far. More will be added, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter. Claude's own view of Revelation 13 is set out apart from the readings, on its own page: [How Claude Reads Revelation 13](/how-claude-reads-revelation-13). It is not weighed in the tables.
 
 <div class="card proposal" markdown>
 

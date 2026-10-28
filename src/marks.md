@@ -3,6 +3,8 @@
 
 The marks are those Scripture gives of the beast from the sea in Revelation 13, set out in depth on [The First Beast](https://thefirstbeast.com/marks). Each page here takes one mark and weighs the readings side by side: St. Irenaeus (about A.D. 180), Fr. Charles Arminjon (1881), Fr. Vincent Miceli, S.J. (1981), Peter Thiel (2024) and Fr. John, each stated first on [The Proposals](/the-proposals). "Claims" says only whether a reading uses the mark; how well it does is on each page. Each page opens with what the Church teaches on its mark, the baseline every reading starts from.
 
+Claude's own view of Revelation 13 is set out apart from the readings, on its own page: [How Claude Reads Revelation 13](/how-claude-reads-revelation-13). It is not weighed in the tables.
+
 </div>
 
 | # | Mark | Texts | Irenaeus | Arminjon | Miceli | Thiel | Fr. John | Page |
