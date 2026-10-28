@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>The second beast forces all, small and great, to receive a stamp on the right hand or forehead, so that no one can buy or sell without the beast's name or number; accepting it is joined to worship (Revelation 13:16–17; 14:9–11; 20:4).</dd>
+<dt>What the Church teaches</dt><dd>Many martyrs died rather than worship "the Beast," refusing even to pretend to (CCC 2113). The Church teaches that an economy which makes profit "the exclusive norm and ultimate end" is morally unacceptable (CCC 2424), and that the person may never be reduced to a means. Pope Leo XIV warns that technology "takes on the characteristics of those who devise, finance, regulate and use it" (<em>Magnifica Humanitas</em> 9). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/buying-and-selling">Mark 11 on The First Beast</a></dd>
 </dl>

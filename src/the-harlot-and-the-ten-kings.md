@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The text</dt><dd>The great harlot, Babylon, "the great city that has sovereignty over the kings of the earth," rides a scarlet beast with seven heads and ten horns; the ten horns are ten kings "not yet crowned" who reign with the beast "for one hour," give it their power, fight the Lamb, and in the end, with the beast, hate the harlot and burn her (Revelation 17–18; Daniel 7:7–8, 24).</dd>
+<dt>What the Church teaches</dt><dd>The harlot is idolatry of wealth and power. Man commits idolatry "whenever he honors and reveres a creature in place of God," including "power, pleasure… the state, money" (CCC 2113); an economy that makes profit "the exclusive norm and ultimate end" is morally unacceptable (CCC 2424). Pope Leo XIV sets the same choice before our age: to "construct a new Tower of Babel" or to "build the city in which God and humanity dwell together," and he calls Babel "a project conceived without reference to God" (<em>Magnifica Humanitas</em> 7). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/the-harlot-and-the-scarlet-beast">The Harlot and the Scarlet Beast on The First Beast</a></dd>
 </dl>

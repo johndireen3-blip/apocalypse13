@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>The second beast performs great signs, even making fire come down from heaven in the sight of everyone, and deceives the inhabitants of the earth with signs done in the sight of the first beast (Revelation 13:13–14; 19:20; Deuteronomy 13:2–4; 2 Thessalonians 2:9–10).</dd>
+<dt>What the Church teaches</dt><dd>The Church teaches that the miracles of Christ and the saints are signs that support faith (CCC 156, 548), and that every attempt to tame occult powers is gravely contrary to the virtue of religion (CCC 2117). The final trial is a religious deception (CCC 675): signs that seem to come from heaven, used to win the world to a man. [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/deception-by-signs">Mark 9 on The First Beast</a></dd>
 </dl>

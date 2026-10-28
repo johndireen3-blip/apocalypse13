@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>The beast is granted authority over every tribe, people, tongue and nation, and all the inhabitants of the earth worship it, except those written in the Lamb's book of life; ten kings give it their power and authority (Revelation 13:7–8; 17:12–18; Daniel 7:23; Luke 4:5–8).</dd>
+<dt>What the Church teaches</dt><dd>The Church does not condemn the unity of nations. Popes have called for a true world political authority to serve the common good, bound by law and by the moral order (St. John XXIII, <em>Pacem in Terris</em> 137; Benedict XVI, <em>Caritas in Veritate</em> 67). What she condemns is power that recognizes nothing above itself: societies that reject God's vision of man "arrogate to themselves an explicit or implicit totalitarian power over man and his destiny" (CCC 2244). The beast's reach is not wrong for being wide but for being given by the dragon and turned to worship. [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/universal-reach">Mark 8 on The First Beast</a></dd>
 </dl>

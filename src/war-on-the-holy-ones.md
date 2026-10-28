@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>The beast is allowed to wage war against the holy ones and conquer them, and those who will not worship its image are put to death (Revelation 13:7, 15; 11:7; 12:17; Daniel 7:21–22, 25).</dd>
+<dt>What the Church teaches</dt><dd>"Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers. The persecution that accompanies her pilgrimage on earth will unveil the 'mystery of iniquity'" (CCC 675). The Church will enter the glory of the kingdom only by following her Lord in his death and Resurrection (CCC 677). Martyrdom is the supreme witness to the truth of the faith (CCC 2473). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/war-on-the-holy-ones">Mark 7 on The First Beast</a></dd>
 </dl>

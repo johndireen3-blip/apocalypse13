@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>"Whoever has ears ought to hear these words… Such is the faithful endurance of the holy ones" (Revelation 13:9–10; 14:12).</dd>
+<dt>What the Church teaches</dt><dd>Fortitude "enables one to conquer fear, even fear of death, and to face trials and persecutions" (CCC 1808). Martyrdom is "the supreme witness given to the truth of the faith" (CCC 2473). The Church will enter the glory of the kingdom only by following her Lord in his death and Resurrection (CCC 677). The Church also teaches that legitimate defense can be a grave duty for those responsible for others (CCC 2265); what Revelation 13:10 refuses is answering persecution for the faith with the sword. [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/the-response-of-the-faithful">Mark 14 on The First Beast</a></dd>
 </dl>

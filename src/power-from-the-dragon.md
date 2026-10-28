@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>The dragon hands the beast his power, throne and great authority, and the world worships the dragon and the beast together (Revelation 13:2, 4).</dd>
+<dt>What the Church teaches</dt><dd>Satan is powerful, but only a creature; his action is permitted by divine providence and cannot stop the building up of God's reign (CCC 395). Christ's victory over the prince of this world was won once for all (CCC 2853). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/power-from-the-dragon">Mark 1 on The First Beast</a>: the text, the Fathers, the Church, and where interpreters differ</dd>
 </dl>

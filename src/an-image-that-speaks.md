@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>The false prophet has the inhabitants of the earth make an image for the first beast, and is permitted to breathe life into it, so that it speaks and has those who will not worship it put to death (Revelation 13:14–15; Daniel 3; Psalm 115:5; Habakkuk 2:19).</dd>
+<dt>What the Church teaches</dt><dd>Idolatry is honoring and revering a creature in place of God (CCC 2113). Writing on artificial intelligence, the Holy See has warned that "the presumption of substituting God for an artifact of human making is idolatry," and that in the end "it is not AI that is ultimately deified and worshipped, but humanity itself," which "becomes enslaved to its own work" (Dicastery for the Doctrine of the Faith and Dicastery for Culture and Education, <em>Antiqua et Nova</em> 105, 2025). Pope Leo XIV adds that "technology is never neutral, because it takes on the characteristics of those who devise, finance, regulate and use it" (<em>Magnifica Humanitas</em> 9, 2026). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/an-image-that-speaks">Mark 10 on The First Beast</a></dd>
 </dl>

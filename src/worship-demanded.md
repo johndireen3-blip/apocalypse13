@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>The world worships the dragon and the beast, saying, "Who can compare with the beast or who can fight against it?" The second beast makes the earth worship the first, and has an image made that speaks and has those who will not worship it put to death (Revelation 13:4, 8, 12, 14–15; Daniel 3:5–6).</dd>
+<dt>What the Church teaches</dt><dd>Adoration belongs to God alone (CCC 2096–2097). Idolatry is not only pagan worship: man commits idolatry "whenever he honors and reveres a creature in place of God," whether gods or demons, or power, pleasure, race, ancestors, the state or money (CCC 2113). The same paragraph recalls the many martyrs who died rather than worship "the Beast," refusing even to pretend to. The final deception is a pseudo-messianism by which man glorifies himself in place of God (CCC 675). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/worship-demanded">Mark 6 on The First Beast</a></dd>
 </dl>

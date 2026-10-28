@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>A second beast rises from the earth with two horns like a lamb's but speaks like a dragon; it wields the first beast's authority in its sight and makes the earth worship the first beast (Revelation 13:11–12; 16:13; 19:20; Matthew 7:15).</dd>
+<dt>What the Church teaches</dt><dd>The final trial will take the form of "a religious deception offering men an apparent solution to their problems at the price of apostasy from the truth" (CCC 675). The false prophet is that deception given a voice: power dressed as meekness, and the dragon's purposes spoken as if they were good. [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/a-counterfeit-lamb">Mark 4 on The First Beast</a></dd>
 </dl>

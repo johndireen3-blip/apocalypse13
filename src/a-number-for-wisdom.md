@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>"Wisdom is needed here; one who understands can calculate the number of the beast, for it is a number that stands for a person. His number is six hundred and sixty-six" (Revelation 13:18; 13:17; 15:2).</dd>
+<dt>What the Church teaches</dt><dd>The Church has not interpreted the number. She warns against trying to unveil the future by our own means: a sound Christian attitude puts itself confidently into the hands of Providence and rejects "unhealthy curiosity" about the future (CCC 2115–2116). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/a-number-for-wisdom">Mark 13 on The First Beast</a></dd>
 </dl>

@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>A beast from the sea with ten horns and seven heads, like a leopard, a bear and a lion: Daniel's four kingdoms gathered into one (Revelation 13:1–2; Daniel 7:3–8). Revelation explains the heads as seven hills and seven kings (Revelation 17:9–11).</dd>
+<dt>What the Church teaches</dt><dd>The Church has not defined who or what the beast is. She does teach that the final deception can take political form: whenever someone claims to fulfil within history the hope that can only be fulfilled beyond it, including in a secular messianism (CCC 676). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/built-from-daniels-beasts">Mark 2 on The First Beast</a></dd>
 </dl>

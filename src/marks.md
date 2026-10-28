@@ -1,7 +1,7 @@
 <!--{"reviewed":"2026-10-26","title":"The Marks of Revelation 13, Weighed | Apocalypse 13","description":"The marks of the two beasts of Revelation 13, mark by mark, with each reading's claim and standing, and a table of the texts read beside it.","kicker":"Layer 1","h1":"The Marks Weighed","lead":"The beast from the sea, one mark at a time: which readings claim each mark, and how their arguments stand.","crumbs":[["Home","/"],["The Marks Weighed","/marks"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
-The marks are those Scripture gives of the beast from the sea in Revelation 13, set out in depth on [The First Beast](https://thefirstbeast.com/marks). Each page here takes one mark and weighs the readings side by side: St. Irenaeus (about A.D. 180), Fr. Charles Arminjon (1881), Fr. Vincent Miceli, S.J. (1981), Peter Thiel (2024) and Fr. John, each stated first on [The Proposals](/the-proposals). "Claims" says only whether a reading uses the mark; how well it does is on each page.
+The marks are those Scripture gives of the beast from the sea in Revelation 13, set out in depth on [The First Beast](https://thefirstbeast.com/marks). Each page here takes one mark and weighs the readings side by side: St. Irenaeus (about A.D. 180), Fr. Charles Arminjon (1881), Fr. Vincent Miceli, S.J. (1981), Peter Thiel (2024) and Fr. John, each stated first on [The Proposals](/the-proposals). "Claims" says only whether a reading uses the mark; how well it does is on each page. Each page opens with what the Church teaches on its mark, the baseline every reading starts from.
 
 </div>
 

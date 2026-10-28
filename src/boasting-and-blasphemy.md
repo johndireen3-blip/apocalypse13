@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>The beast is given a mouth uttering proud boasts and blasphemies, against God, his name, his dwelling and those who dwell in heaven (Revelation 13:1, 5–6; Daniel 7:8, 25; 2 Thessalonians 2:4).</dd>
+<dt>What the Church teaches</dt><dd>Blasphemy is uttering against God, inwardly or outwardly, words of hatred, reproach or defiance; it extends to words against the Church, the saints and sacred things (CCC 2148). The Catechism names the final deception as a pseudo-messianism by which man glorifies himself in place of God and of his Messiah come in the flesh (CCC 675). The beast's mouth is that self-glorification spoken aloud. [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/boasting-and-blasphemy">Mark 5 on The First Beast</a></dd>
 </dl>

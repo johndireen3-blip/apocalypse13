@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>One of the beast's heads seemed mortally wounded, but the wound was healed, and the whole world followed after the beast (Revelation 13:3, 12, 14; 17:8).</dd>
+<dt>What the Church teaches</dt><dd>The Catechism teaches that the final deception is a pseudo-messianism by which man glorifies himself in place of God and of his Messiah come in the flesh (CCC 675). A counterfeit death and rising is that deception at its sharpest: it imitates the one sign on which the faith rests (1 Corinthians 15:14). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/a-counterfeit-resurrection">Mark 3 on The First Beast</a></dd>
 </dl>

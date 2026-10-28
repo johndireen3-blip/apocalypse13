@@ -3,6 +3,7 @@
 
 <dl class="facts">
 <dt>The mark</dt><dd>The beast is given authority to act for forty-two months, the same span as the 1,260 days and "a time, two times, and half a time" (Revelation 13:5; 11:2–3; 12:6, 14; Daniel 7:25; 12:7).</dd>
+<dt>What the Church teaches</dt><dd>"Since the Ascension Christ's coming in glory has been imminent, even though 'it is not for you to know times or seasons which the Father has fixed by his own authority'" (CCC 673). "Of that day and hour no one knows, neither the angels of heaven, nor the Son, but the Father alone" (Matthew 24:36). The Church has never taught a seven-year tribulation, and she expects to pass through the final trial, not to be taken out of it (CCC 675). [[auth:church]]</dd>
 <dt>Authority</dt><dd>[[auth:scripture]]</dd>
 <dt>In depth</dt><dd><a href="https://thefirstbeast.com/a-limited-time">Mark 12 on The First Beast</a></dd>
 </dl>
