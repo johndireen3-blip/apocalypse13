@@ -41,6 +41,12 @@ The site is being built a mark at a time, beginning with the beast from the sea 
 
 Fr. John, who directs this project, has his own reading of Revelation 13, which he sets out on [his own site](https://apocalypse12.org/). Here it is weighed by exactly the same standards as every other, with the evidence against it set down as faithfully as the evidence for it. That is the point of the site.
 
+## The emblem
+
+<svg viewBox="0 0 64 64" role="img" aria-label="A plumb line" width="96" height="96" style="float:left;margin:4px 20px 8px 0"><circle cx="32" cy="32" r="30" fill="#173f48"/><path d="M18 15 H46" stroke="#e3c47a" stroke-width="3" stroke-linecap="round"/><path d="M32 15 V40" stroke="#e3c47a" stroke-width="1.8"/><path d="M32 38 L38 46 L32 53 L26 46 Z" fill="#e3c47a"/></svg>
+
+The emblem of this site is a plumb line, or plummet: a weight hung on a cord to show whether a wall stands true. The prophet Amos saw the Lord "standing, plummet in hand, by a wall built with a plummet," and heard him say, "See, I am laying the plummet in the midst of my people Israel" (Amos 7:7–8). The plummet does not lean toward any wall; it shows where each one stands. So here every reading of Revelation 13, Fr. John's included, is held to the same line: the marks Scripture reveals and the Church's standards for reading it.
+
 <div class="response" markdown>
 
 ## In charity
