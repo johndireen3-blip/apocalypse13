@@ -16,6 +16,7 @@
 <tr><td><strong>Claude</strong> (Anthropic)</td><td>Researches and checks sources, states each reading as its holder would, weighs every reading by the same standards, Fr. John's included, states the case against each as fairly as the case for it, and builds and publishes the site. Claude works within the rules below.</td></tr>
 <tr><td><strong>The Church</strong></td><td>Neither Fr. John nor Claude is the authority here. That belongs to Sacred Scripture, Sacred Tradition and the Magisterium of the Catholic Church. The Church has not taught any of the readings weighed here, and the site never says she has.</td></tr>
 </table></div>
+<p>Claude's own view of Revelation 13 is set out apart from the readings, on its own page: <a href="/how-claude-reads-revelation-13">How Claude Reads Revelation 13</a>. It is not weighed in the tables.</p>
 <p>Every page says who made it, with the line <em>Researched and written with Claude, an AI model made by Anthropic. Directed by Fr. John.</em> A page he has read and approved also carries the mark <strong>✓ Reviewed by Fr. John</strong>; until then it is marked as a draft.</p>
 
 <h2>How readings are weighed</h2>
