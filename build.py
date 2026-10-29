@@ -267,6 +267,7 @@ DirectoryIndex index.html
 ErrorDocument 404 /404.html
 RewriteEngine On
 @REDIRECT@# /page.html -> /page
+RewriteCond %{REQUEST_URI} !^/google[0-9a-f]+\\.html$ [NC]
 RewriteCond %{THE_REQUEST} \\s/+(.+?)\\.html[\\s?] [NC]
 RewriteRule ^ /%1 [L,R=301]
 # /page -> page.html
@@ -303,6 +304,8 @@ def main():
         "".join(f"  <url><loc>{SITE}{u}</loc><lastmod>{TODAY}</lastmod></url>\n" for u in urls) + "</urlset>\n")
     (DIST / "robots.txt").write_text("User-agent: *\nDisallow: /\n" if PRELAUNCH
                                      else f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
+    # Google Search Console verification file (must survive every publish)
+    (DIST / "googlec7edab293d10b835.html").write_text("google-site-verification: googlec7edab293d10b835.html")
     (DIST / ".htaccess").write_text(HTACCESS.replace("@REDIRECT@", "" if PRELAUNCH else HTACCESS_REDIRECT))
     print("built", len(urls), "pages:", ", ".join(urls))
 
