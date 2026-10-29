@@ -7,6 +7,7 @@ RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www\. [NC]
 RewriteRule ^ https://apocalypse13.org%{REQUEST_URI} [L,R=301]
 # /page.html -> /page
+RewriteCond %{REQUEST_URI} !^/google[0-9a-f]+\.html$ [NC]
 RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
 RewriteRule ^ /%1 [L,R=301]
 # /page -> page.html
