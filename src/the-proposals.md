@@ -51,6 +51,6 @@ Only what he has said or published on the record is weighed here. His private le
 
 Fr. John, a Catholic diocesan priest who founded and directs The Ephesus Challenge, reads the seven heads of the beast as seven world powers, counted from John's day, with the United States as the seventh. He proposes that the first beast of Revelation 13 is Donald J. Trump: the seventh head his first term, the eighth his return to power in the 47th presidency. He grades each mark *possible* or *probable*, never settled, and sets out the evidence against his reading beside the evidence for it. The Church has not taught this reading, and he does not say she has.
 
-He makes his case on [his own site](https://apocalypse12.org/the-first-beast). Here it is weighed by the same standards as every other reading, and he asks that it be tested.
+He makes his case on [his own site](https://apocalypse12.org/): mark by mark for [the first beast](https://apocalypse12.org/the-first-beast) and [the second](https://apocalypse12.org/the-second-beast), with how he reads the chapter set out on [Watch](https://apocalypse12.org/watch). Here it is weighed by the same standards as every other reading, and he asks that it be tested.
 
 </div>
