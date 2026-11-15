@@ -28,7 +28,7 @@ Read in context ([Standard 4](/the-standards#s4)), the number belongs to the fir
 
 ## Verdict on the arguments
 
-On the mark that has drawn the most speculation, Fr. John's reading shows the most restraint: it computes no name, follows Irenaeus in waiting, and states its own standing as *against, as now argued*. His two observations are honestly labeled as observations; as arguments, neither meets the text, which gives the number to the first beast's name. St. Irenaeus's reading remains the model for this mark: the number interpreted, the name withheld. Thiel's reading does not take up this mark.
+On the mark that has drawn the most speculation, Fr. John's reading shows the most restraint: it computes no name, follows Irenaeus in waiting, and states its own standing as *against, as now argued*. His two observations are honestly labeled as observations; as arguments, neither meets the text, which gives the number to the first beast's name. St. Irenaeus's reading remains the model for this mark: the number interpreted, the name withheld. Thiel reports Nero's name and Bonaventure's reading of the number as three errors, and offers no name of his own; on this mark he keeps the reserve of Irenaeus.
 
 Arminjon, with St. Irenaeus, declines to decode the number.
 

@@ -28,7 +28,7 @@ Read in context ([Standard 4](/the-standards#s4)) and with Scripture's own test 
 
 ## Verdict on the arguments
 
-Fr. John places the false prophet at the threshold of a war that came "from heaven" in the sight of the world, and the sequence he documents, talks in Geneva and strikes two days later, is accurate. But the mark is a deceiving wonder, and a military strike ordered by a head of state is not shown to be the sign of the one who negotiated before it; nor does it lead anyone toward worship of the first beast. As argued, the evidence places the man near great events, not yet working signs. St. Irenaeus reads the mark faithfully as the false prophet's lying wonders at the end. Thiel's reading does not take up this mark.
+Fr. John places the false prophet at the threshold of a war that came "from heaven" in the sight of the world, and the sequence he documents, talks in Geneva and strikes two days later, is accurate. But the mark is a deceiving wonder, and a military strike ordered by a head of state is not shown to be the sign of the one who negotiated before it; nor does it lead anyone toward worship of the first beast. As argued, the evidence places the man near great events, not yet working signs. St. Irenaeus reads the mark faithfully as the false prophet's lying wonders at the end. Thiel touches this mark only in a story, and applies it to nothing in the world.
 
 Arminjon gives the fire from heaven to the first beast, so his reading cannot help decide which figure works the signs.
 
