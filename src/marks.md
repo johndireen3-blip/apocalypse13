@@ -9,7 +9,7 @@ Claude's own view of Revelation 13 is set out apart from the readings, on its ow
 
 | # | Mark | Texts | Irenaeus | Arminjon | Miceli | Thiel | Fr. John | Page |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Power on loan from the dragon | Revelation 13:2, 4 | Yes | Partly | Yes | Not directly | Yes · probable | [Weighed](/power-from-the-dragon) |
+| 1 | Power on loan from the dragon | Revelation 13:2, 4 | Yes | Partly | Yes | Not directly | Yes · possible | [Weighed](/power-from-the-dragon) |
 | 2 | Built from Daniel's beasts | Revelation 13:1–2; Daniel 7 | Yes | Partly; ten heads | Partly; Rome's emperors | Partly | Yes · probable | [Weighed](/built-from-daniels-beasts) |
 | 3 | A counterfeit resurrection | Revelation 13:3, 12, 14 | Yes | Yes | Yes, with Newman: Rome revived | No | Yes · probable | [Weighed](/a-counterfeit-resurrection) |
 | 5 | Boasting and blasphemy | Revelation 13:1, 5–6 | Yes | Yes | Yes | No | Yes · probable | [Weighed](/boasting-and-blasphemy) |
