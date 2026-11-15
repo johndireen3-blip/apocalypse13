@@ -13,7 +13,7 @@ Read in context ([Standard 4](/the-standards#s4)), the passage says three things
 
 </div>
 
-## The five readings
+## The readings
 
 | Reading | What it holds | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
