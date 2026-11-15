@@ -40,6 +40,6 @@ Miceli, following Newman, reads the healed head as the Roman empire revived by t
 
 Newman reads the revival of the empire, not of a man; Miceli follows him.
 
-The first-century reading explains the wound by a legend John's readers knew, Nero's return. It shows that the image had a meaning before any modern comeback, and that a "healed wound" could be said of a ruler's expected return to power.
+The first-century reading explains the wound by a legend John's readers knew, Nero's return. It shows that the image had a meaning before any modern comeback, and that a "healed wound" could be said of a ruler's expected return to power. Fr. John now takes this up on his own card: he reads the Nero legend as the image's first meaning, left unfulfilled, and grants that a pattern loose enough to fit it "will fit many returns to power."
 
 </div>

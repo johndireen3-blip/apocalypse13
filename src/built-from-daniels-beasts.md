@@ -38,6 +38,6 @@ Miceli reads the seven heads as the emperors of John's own day, the first fulfil
 
 Newman reads the beast as Daniel's fourth, the Roman Empire still living in its successor kingdoms, and is candid that the ten kings cannot be counted in history. That candor is the model for every later reading of the heads and horns.
 
-The first-century reading takes the heads as Rome's emperors and declines to count them. A reading that counts them differently, as Fr. John's does, must first say why the emperors are not enough ([Standard 15](/the-standards#s15)).
+The first-century reading takes the heads as Rome's emperors and declines to count them. A reading that counts them differently, as Fr. John's does, must first say why the emperors are not enough ([Standard 15](/the-standards#s15)). Since November 15, 2026, he does: he accepts the emperors as the first fulfillment, and argues that no count of them has fit "five have fallen, one is," that Daniel's beasts are kingdoms, and that Rome fell without the end coming. That meets the standard in form. It shows that a further fulfillment may be looked for; as he says himself, it "does not show that mine is it."
 
 </div>
