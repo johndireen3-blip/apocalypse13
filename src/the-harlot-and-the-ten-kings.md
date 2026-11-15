@@ -38,4 +38,4 @@ These are verdicts on arguments, not on any person.
 
 </div>
 
-<p class="next-prev"><span>← <a href="/buying-and-selling">Mark 11: Control of buying and selling</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/buying-and-selling">Mark 11: Control of buying and selling</a></span><span><a href="/the-two-witnesses">Revelation 11: The two witnesses</a> →</span></p>

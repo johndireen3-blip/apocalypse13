@@ -36,6 +36,7 @@ The site is being built a mark at a time, beginning with the beast from the sea 
 - [Mark 10: An image that speaks](/an-image-that-speaks)
 - [Mark 11: Control of buying and selling](/buying-and-selling)
 - [Revelation 17: The harlot and the ten kings](/the-harlot-and-the-ten-kings)
+- [Revelation 11: The two witnesses](/the-two-witnesses)
 
 ## Fr. John's own reading is weighed too
 
