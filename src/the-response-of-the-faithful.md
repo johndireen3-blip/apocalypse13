@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 14 Weighed: The Response of the Faithful | Apocalypse 13","description":"Revelation 13, mark 14: the endurance of the holy ones, the measure of every reading. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 14 weighed","h1":"The Response Asked of the Faithful","lead":"The one mark that is not about the beast. Every reading is weighed here by its fruit: what it asks of those who read it.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 14","/the-response-of-the-faithful"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 14 Weighed: The Response of the Faithful | Apocalypse 13","description":"Revelation 13, mark 14: the endurance of the holy ones, the measure of every reading. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 14 weighed","h1":"The Response Asked of the Faithful","lead":"The one mark that is not about the beast. Every reading is weighed here by its fruit: what it asks of those who read it.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 14","/the-response-of-the-faithful"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,10 +14,11 @@ This mark is not claimed; it is lived. Revelation 13 is written so that the holy
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | What it asks of its readers | What weighs against | Standards |
 | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | "To stand firm in the faith and to avoid compromise with paganism, despite the threat of adversity and martyrdom." The book "remains valid and meaningful for Christians of all time": "a message of hope and consolation and challenge" ([Introduction](https://bible.usccb.org/bible/revelation/0)) | Nothing: this is the response the text asks | [12](/the-standards#s12), [27](/the-standards#s27) met |
 | **St. Irenaeus** | Endurance through a trial the Church must pass through, and hope in the Lord's coming and the kingdom of the just; patience rather than speculation about the name (*Against Heresies* V.30) | Little: his book was written to strengthen the faithful against error | [12](/the-standards#s12), [27](/the-standards#s27) met |
 | **St. John Henry Newman** (1835) | To live as "pilgrims, watchers waiting for the morning"; to learn the signs and teach them to others; and to shun the worldly spirit, with its "haughty contempt for the Church, her ministers, her lowly people" ([lecture 4](https://newmanreader.org/works/arguments/antichrist/lecture4.html), §5; [lecture 3](https://newmanreader.org/works/arguments/antichrist/lecture3.html), §6) | Nothing: this is the response the text asks | [12](/the-standards#s12), [27](/the-standards#s27) met |
 | **Fr. Charles Arminjon** (1881) | Prepare now, "by having recourse to Him through prayer, and by providing ourselves with the spiritual weapons of charity and faith" (*The End of the Present World*, p. 48), for "evils foreseen do less harm" (p. 50) | His pages on the Jews of his own day (pp. 60–63) praise them but also cast them as a people bent on gold and power, which does not build up charity | [12](/the-standards#s12) met; [28](/the-standards#s28) not met on pp. 60–63 |
@@ -36,6 +37,8 @@ Arminjon asks for prayer, charity and faith now; his pages on the Jews of his ow
 Miceli asks for a "holy Resistance Movement" against the devil, joined to watchfulness and prayer; two lines of his fourth chapter on the Jewish people are weighed under Standard 28, as noted on [Beyond Revelation 13](/marks#beyond).
 
 Newman asks for watchfulness and a life lived as pilgrims, which is the response the text asks.
+
+The first-century reading states the response as the text does, and says it holds "for Christians of all time."
 
 These are verdicts on arguments, not on any person.
 

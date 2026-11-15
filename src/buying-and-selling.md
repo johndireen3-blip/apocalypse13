@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 11 Weighed: Buying and Selling | Apocalypse 13","description":"Revelation 13, mark 11: the mark without which no one can buy or sell. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 11 weighed","h1":"Control of Buying and Selling","lead":"A stamp on hand or forehead, bearing the beast's name or number, without which no one can buy or sell: what each reading points to, and whether it shows the mark or only the tools.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 11","/buying-and-selling"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 11 Weighed: Buying and Selling | Apocalypse 13","description":"Revelation 13, mark 11: the mark without which no one can buy or sell. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 11 weighed","h1":"Control of Buying and Selling","lead":"A stamp on hand or forehead, bearing the beast's name or number, without which no one can buy or sell: what each reading points to, and whether it shows the mark or only the tools.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 11","/buying-and-selling"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -16,10 +16,11 @@ Every reading should also keep in view what the mark counterfeits. St. Peter Chr
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | Claims mark 11? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | No note on these verses | Cross-references only (14:9; 16:2; 19:20; 20:4) | Not applicable | — |
 | **St. Irenaeus** | Yes | The mark and the number belong to the one to come, and are received by those who worship him (*Against Heresies* V.28.2; V.30) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16) met |
 | **St. John Henry Newman** (1835) | Not found in the four lectures | — | Not applicable | — |
 | **Fr. Charles Arminjon** (1881) | Yes | "This mark will be a sign of apostasy" (*The End of the Present World*, p. 49); those who refuse it "will be outlawed," barred from buying and selling (p. 49) | He identifies the mark with no object or institution of his time | [1](/the-standards#s1) met; [9](/the-standards#s9) met |
@@ -36,6 +37,8 @@ Fr. John's case on this mark is careful: he states his own test, says plainly th
 Arminjon reads the mark as a sign of apostasy that shuts its refusers out of trade, close to Fr. John's own test, and names no object.
 
 Miceli never takes up buying and selling in his own voice; the one report of it he prints, in his appendix, was a hoax, which is a caution for every reading that looks for the mark in a technology.
+
+The first-century reading has no note on these verses.
 
 These are verdicts on arguments, not on any person.
 

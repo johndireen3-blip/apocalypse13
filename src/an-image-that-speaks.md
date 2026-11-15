@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 10 Weighed: An Image That Speaks | Apocalypse 13","description":"Revelation 13, mark 10: the image given breath to speak, and AI. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 10 weighed","h1":"An Image That Speaks","lead":"A made thing given breath, which speaks and condemns those who will not worship it: what each reading makes of it, and where artificial intelligence fits, or does not.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 10","/an-image-that-speaks"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 10 Weighed: An Image That Speaks | Apocalypse 13","description":"Revelation 13, mark 10: the image given breath to speak, and AI. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 10 weighed","h1":"An Image That Speaks","lead":"A made thing given breath, which speaks and condemns those who will not worship it: what each reading makes of it, and where artificial intelligence fits, or does not.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 10","/an-image-that-speaks"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,10 +14,11 @@ Read in context ([Standard 4](/the-standards#s4)), the mark has four parts: an i
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | Claims mark 10? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | Yes | The image is the emperor's: Christians had "to worship the emperor and his image or to suffer martyrdom" ([note on 13:11–18](https://bible.usccb.org/bible/revelation/13)), with a cross-reference to Nebuchadnezzar's statue (Daniel 3:5–7, 15) | The breath and speech of the image are not explained | [15](/the-standards#s15), [16](/the-standards#s16) met |
 | **St. Irenaeus** | Yes | The false prophet "shall order an image of the beast to be made, and he shall give breath to the image, so that the image shall speak, and he shall cause those to be slain who will not adore it" (*Against Heresies* V.28.2) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16) met |
 | **St. John Henry Newman** (1835) | Not found in the four lectures | — | Not applicable | — |
 | **Fr. Charles Arminjon** (1881) | Yes | "He will make a statue speak; demons will use a tree or a lifeless piece of wood as an instrument" (*The End of the Present World*, p. 47); where he is absent, men "will be obliged to pay homage to his image or statue" (p. 68) | He gives the image to the Antichrist rather than to the false prophet, and identifies it with nothing of his day | [1](/the-standards#s1), [16](/the-standards#s16) met |
@@ -34,6 +35,8 @@ Fr. John holds this mark open, which is the honest place for it, and he joins tw
 Arminjon reads the image as a statue through which demons speak, and identifies it with nothing of his own day.
 
 Miceli reports Irenaeus's type and a medieval poem's speaking images, and gives no reading of his own.
+
+The first-century reading takes the image as the emperor's statue, which Christians were ordered to worship.
 
 These are verdicts on arguments, not on any person.
 

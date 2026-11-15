@@ -1,5 +1,17 @@
-<!--{"reviewed":"2026-10-26","title":"The Readings of Revelation 13 | Apocalypse 13","description":"The six readings of Revelation 13 weighed here, each stated at its best: Irenaeus, Newman, Arminjon, Miceli, Peter Thiel and Fr. John's own proposal.","kicker":"The readings","h1":"The Proposals","lead":"Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).","crumbs":[["Home","/"],["The Proposals","/the-proposals"]]}-->
-Six readings are weighed so far. More will be added, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter. Claude's own view of Revelation 13 is set out apart from the readings, on its own page: [How Claude Reads Revelation 13](/how-claude-reads-revelation-13). It is not weighed in the tables.
+<!--{"reviewed":"2026-10-26","title":"The Readings of Revelation 13 | Apocalypse 13","description":"The seven readings of Revelation 13 weighed here, each stated at its best: the first-century reading, Irenaeus, Newman, Arminjon, Miceli, Peter Thiel and Fr. John's own proposal.","kicker":"The readings","h1":"The Proposals","lead":"Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).","crumbs":[["Home","/"],["The Proposals","/the-proposals"]]}-->
+Seven readings are weighed so far. More will be added, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter. Claude's own view of Revelation 13 is set out apart from the readings, on its own page: [How Claude Reads Revelation 13](/how-claude-reads-revelation-13). It is not weighed in the tables.
+
+<div class="card proposal" markdown>
+
+## The first-century reading: Rome and its emperors [[auth:theologian]]
+
+Most Scripture scholars today read Revelation first of all as a book written for Christians under the Roman Empire, and the notes of the New American Bible, Revised Edition, the translation read at Mass in the United States, give that reading. "The Book of Revelation cannot be adequately understood except against the historical background that occasioned its writing," which was "ruthless persecution of the early church by the Roman authorities" ([Introduction](https://bible.usccb.org/bible/revelation/0)). The beast from the sea "symbolizes the Roman empire; the seven heads represent the emperors." The healed wound recalls the legend that Nero would return. The worship of the beast is "emperor worship, which Domitian insisted upon and ruthlessly enforced." The number 666 is most likely "the emperor Caesar Nero." Babylon is pagan Rome, "the city on seven hills" ([notes on chapter 13](https://bible.usccb.org/bible/revelation/13); [chapter 17](https://bible.usccb.org/bible/revelation/17)).
+
+This reading does not say that Revelation is only about the past. The same introduction says the book "remains valid and meaningful for Christians of all time," and that its perspective reaches to "the end of the present age when Christ will come in glory." The Church teaches that a final trial and the Antichrist are still to come (CCC 675–677), so a reading that stopped at the first century would be incomplete; the notes do not stop there, though they say little about what lies ahead.
+
+It is weighed here because it is the main alternative to every reading on this site that looks to the future, Fr. John's included. If each mark already had a sufficient meaning in John's own day, then any later application is a *further* fulfillment, and must say what it adds ([Standard 15](/the-standards#s15)). The notes are those of the NABRE as published by the United States Conference of Catholic Bishops; they are a work of scholarship, not of the Magisterium.
+
+</div>
 
 <div class="card proposal" markdown>
 

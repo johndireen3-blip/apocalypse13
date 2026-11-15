@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 5 Weighed: Boasting and Blasphemy | Apocalypse 13","description":"Revelation 13, mark 5: the mouth given to boasts and blasphemies. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 5 weighed","h1":"Boasting and Blasphemy","lead":"A mouth that boasts of itself and then speaks against God: what each reading points to, and whether it reaches the second half of the mark.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 5","/boasting-and-blasphemy"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 5 Weighed: Boasting and Blasphemy | Apocalypse 13","description":"Revelation 13, mark 5: the mouth given to boasts and blasphemies. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 5 weighed","h1":"Boasting and Blasphemy","lead":"A mouth that boasts of itself and then speaks against God: what each reading points to, and whether it reaches the second half of the mark.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 5","/boasting-and-blasphemy"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,10 +14,11 @@ The mark has two halves, and read in context ([Standard 4](/the-standards#s4)) t
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | Claims mark 5? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | Yes | The blasphemous names are "the divine titles assumed by the emperors"; Domitian "demanded that he be called by divine titles such as 'our lord and god'" ([note on 13:1–10, 13:5–6](https://bible.usccb.org/bible/revelation/13)) | Applied to the first century only | [13](/the-standards#s13), [15](/the-standards#s15) met |
 | **St. Irenaeus** | Yes, centrally | The one to come sets aside all idols and presents himself as the only one to be worshiped as God, fulfilling Daniel's arrogant horn and Paul's man of lawlessness (*Against Heresies* V.25.1–3) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16) met |
 | **St. John Henry Newman** (1835) | Yes | Open infidelity: he "sitteth as God in the Temple of God," and comes "in his own name" ([lecture 2](https://newmanreader.org/works/arguments/antichrist/lecture2.html), §1). The French Revolution is "that type or shadow of the final apostasy" (§3) | No application to test; he calls the Revolution a shadow, not the fulfillment | [1](/the-standards#s1), [16](/the-standards#s16) met |
 | **Fr. Charles Arminjon** (1881) | Yes | "He will open his mouth in blasphemy against God, to blaspheme His Name, His tabernacle, and the saints in heaven" (*The End of the Present World*, p. 47), read with Daniel 11:36 (p. 67) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16) met |
@@ -36,6 +37,8 @@ Arminjon reads the mark as St. Irenaeus does, as blasphemy against God himself, 
 Miceli reads the mark as hostility to God himself, with no application to test.
 
 Newman reads the mark as open infidelity seated in God's place, and offers the French Revolution as its shadow, not its fulfillment.
+
+The first-century reading shows what blasphemy meant on the beast's lips in John's day: a ruler taking divine titles. That is a clear measure for any later claim.
 
 These are verdicts on arguments, not on any person.
 

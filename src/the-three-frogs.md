@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-11-15","title":"Revelation 16 Weighed: The Three Frogs | Apocalypse 13","description":"Revelation 16:13–14: three unclean spirits like frogs. Six readings, Fr. John's three named candidates included, weighed by the same standards.","kicker":"Revelation 16 weighed","h1":"The Three Frogs","lead":"Three unclean spirits from three mouths, sent to gather the kings of the world: what each reading makes of them, and whether spirits can be read as three named men.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 16","/the-three-frogs"]],"wide":true}-->
+<!--{"reviewed":"2026-11-15","title":"Revelation 16 Weighed: The Three Frogs | Apocalypse 13","description":"Revelation 16:13–14: three unclean spirits like frogs. Seven readings, Fr. John's three named candidates included, weighed by the same standards.","kicker":"Revelation 16 weighed","h1":"The Three Frogs","lead":"Three unclean spirits from three mouths, sent to gather the kings of the world: what each reading makes of them, and whether spirits can be read as three named men.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 16","/the-three-frogs"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -17,6 +17,7 @@ Read in context ([Standard 4](/the-standards#s4)), the passage says three things
 
 | Reading | What it holds | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | An echo of Egypt | "Possibly an allusion to the second Egyptian plague"; the false prophet is the second beast; the kings of the East are the Parthians; Armageddon is "the symbol of the final disastrous rout of the forces of evil" ([note on 16:12–16](https://bible.usccb.org/bible/revelation/16)) | No application to test | [1](/the-standards#s1), [14](/the-standards#s14) met |
 | **St. Irenaeus** | Not taken up in *Against Heresies* V | — | Not applicable | — |
 | **St. John Henry Newman** (1835) | Not found in the four lectures | — | Not applicable | — |
 | **Fr. Charles Arminjon** (1881) | Not in the material reviewed | — | Not applicable | — |
@@ -42,6 +43,8 @@ On justice to persons: to say that a named man speaks for the mouth of the drago
 The observation about Musk and the image of a frog is labeled as not evidence, and rightly. The frogs of Revelation are spirits, not pictures.
 
 The tradition's reading remains the anchor: the frogs are the unclean speech of the dragon, the beast and the false prophet, and the passage ends with the Lord's word to the reader, "Blessed is the one who watches." The other readings weighed on this site do not take up the passage in the material reviewed.
+
+The first-century reading sees an echo of the plague of frogs and names no one.
 
 These are verdicts on arguments, not on any person.
 

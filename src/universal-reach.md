@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 8 Weighed: Universal Reach | Apocalypse 13","description":"Revelation 13, mark 8: authority over every tribe, tongue and nation. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 8 weighed","h1":"Universal Reach","lead":"Authority over every tribe, people, tongue and nation: what each reading points to, and whether it shows authority or only influence.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 8","/universal-reach"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 8 Weighed: Universal Reach | Apocalypse 13","description":"Revelation 13, mark 8: authority over every tribe, tongue and nation. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 8 weighed","h1":"Universal Reach","lead":"Authority over every tribe, people, tongue and nation: what each reading points to, and whether it shows authority or only influence.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 8","/universal-reach"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,10 +14,11 @@ Read in context ([Standard 4](/the-standards#s4)), the beast's reach is *authori
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | Claims mark 8? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | Yes, of Rome | The empire of the first century; "the pagan kings subject to Rome adopted the cult of the emperor" ([note on 17:2](https://bible.usccb.org/bible/revelation/17)) | Rome ruled the Mediterranean world, not "every tribe, people, tongue, and nation"; the text's universal language reaches past it | [15](/the-standards#s15) met; [4](/the-standards#s4) partly met |
 | **St. Irenaeus** | Yes, centrally | The empire of his day will be divided among ten kings; the one to come will slay three and "subject the remainder to his power," and they "shall give their kingdom to the beast" (*Against Heresies* V.26.1) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16), [17](/the-standards#s17) met |
 | **St. John Henry Newman** (1835) | Partly | He rises when the present order of society breaks up and reorganizes it under himself; Newman saw in his own day "a confederacy of evil, marshalling its hosts from all parts of the world" ([lecture 1](https://newmanreader.org/works/arguments/antichrist/lecture1.html), §§3–4) | He names no state and does not describe a world government; whether the confederacy would bring the Antichrist "we cannot know" | [9](/the-standards#s9) met |
 | **Fr. Charles Arminjon** (1881) | Yes | "His power will extend over all tribes and peoples, over men of every nation and language" (*The End of the Present World*, p. 46); the persecution "will extend over the whole earth" (p. 63) | No application to test; he sees the railway and the telegraph making such rule possible (p. 59) but names no state | [1](/the-standards#s1), [16](/the-standards#s16) met |
@@ -36,6 +37,8 @@ Arminjon reads the reach as literal world rule, and notes the means his own cent
 Miceli reads the reach as world power seized by one man, with no application to test.
 
 Newman describes a society reorganized under one man but names no state and will not say the hour has come.
+
+The first-century reading finds the mark in Rome's empire, which did not reach every nation; the text's language leaves room for more.
 
 These are verdicts on arguments, not on any person.
 

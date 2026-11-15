@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 4 Weighed: A Counterfeit Lamb | Apocalypse 13","description":"Revelation 13, mark 4: the second beast, horned like a lamb, speaking like a dragon. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 4 weighed","h1":"A Counterfeit Lamb","lead":"The false prophet looks like a lamb and speaks like the dragon: what each reading points to, and whether it shows a voice that deceives or only a quiet manner.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 4","/a-counterfeit-lamb"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 4 Weighed: A Counterfeit Lamb | Apocalypse 13","description":"Revelation 13, mark 4: the second beast, horned like a lamb, speaking like a dragon. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 4 weighed","h1":"A Counterfeit Lamb","lead":"The false prophet looks like a lamb and speaks like the dragon: what each reading points to, and whether it shows a voice that deceives or only a quiet manner.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 4","/a-counterfeit-lamb"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,10 +14,11 @@ Read in context ([Standard 4](/the-standards#s4)), the mark has three parts: a l
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | Claims mark 4? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | Yes | "The second beast is described in terms of the false prophets… who accompany the false messiahs (the first beast)" ([note on 13:11–18](https://bible.usccb.org/bible/revelation/13)) | The note names no person or institution of the first century | [1](/the-standards#s1), [16](/the-standards#s16) met |
 | **St. Irenaeus** | Yes | The second beast is the first beast's "armour-bearer, whom he also terms a false prophet," working wonders by magic to lead the earth astray (*Against Heresies* V.28.2); St. Hippolytus adds that the lamb's horns counterfeit the Son of God (*On Christ and Antichrist* 49) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16), [17](/the-standards#s17) met |
 | **St. John Henry Newman** (1835) | Not found in the four lectures | — | Not applicable | — |
 | **Fr. Charles Arminjon** (1881) | Not addressed | He reads one beast only; the fire from heaven and the speaking image, which Revelation gives the second beast, he gives to the Antichrist himself (*The End of the Present World*, p. 47) | Not applicable | — |
@@ -34,6 +35,8 @@ Fr. John's case fits the shape of the mark better than most: a quiet man with a 
 Arminjon does not distinguish the second beast, so he offers nothing to weigh on this mark.
 
 Miceli distinguishes the two beasts as the text does, and warns against confident identifications of the second: he counts the claim that an antipope will be the false prophet as speculation "presented as historical facts" (p. 16). Fr. John's grading of this mark as *probable*, not settled, meets that warning in form; the evidence must still carry it.
+
+The first-century reading takes the second beast as the false prophets who serve false messiahs, without naming anyone.
 
 These are verdicts on arguments, not on any person.
 

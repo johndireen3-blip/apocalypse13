@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 7 Weighed: War on the Holy Ones | Apocalypse 13","description":"Revelation 13, mark 7: the beast's war on the holy ones. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 7 weighed","h1":"War on the Holy Ones","lead":"The beast is allowed to make war on the holy ones and conquer them: what each reading points to, and whether it shows a war on the faith or a conflict over policy.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 7","/war-on-the-holy-ones"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 7 Weighed: War on the Holy Ones | Apocalypse 13","description":"Revelation 13, mark 7: the beast's war on the holy ones. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 7 weighed","h1":"War on the Holy Ones","lead":"The beast is allowed to make war on the holy ones and conquer them: what each reading points to, and whether it shows a war on the faith or a conflict over policy.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 7","/war-on-the-holy-ones"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,10 +14,11 @@ Read in context ([Standard 4](/the-standards#s4)), the holy ones are "those who 
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | Claims mark 7? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | Yes | The book answers "ruthless persecution of the early church by the Roman authorities" ([Introduction](https://bible.usccb.org/bible/revelation/0)); worship of the emperor or martyrdom ([note on 13:11–18](https://bible.usccb.org/bible/revelation/13)) | Applied to the first century only | [13](/the-standards#s13), [15](/the-standards#s15) met |
 | **St. Irenaeus** | Yes, centrally | Daniel's horn is the one to come, who makes war on the saints, prevails against them and wears them out for three and a half years, while they are put to flight (*Against Heresies* V.25.3–4) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16), [17](/the-standards#s17) met |
 | **St. John Henry Newman** (1835) | Yes | The last persecution will be fiercer than any before it, will stop the Church's public worship, and will be supported by claims of miracles ([lecture 4](https://newmanreader.org/works/arguments/antichrist/lecture4.html), §2). It may come by craft as well as blood: "It is his policy to split us up and divide us, to dislodge us gradually from off our rock of strength" (§5) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [12](/the-standards#s12) met |
 | **Fr. Charles Arminjon** (1881) | Yes, centrally | Of all persecutions, "that of the Antichrist will be the most terrible and the most violent" (*The End of the Present World*, p. 63), so violent "that it will succeed in making almost the entirety of Christians apostatize," yet with martyrs and hidden confessors (p. 66) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [17](/the-standards#s17) met (with Augustine, Cyril and Suárez) |
@@ -36,6 +37,8 @@ Arminjon, drawing on Augustine, Cyril and Suárez, agrees with St. Irenaeus that
 Miceli reads the irreligion of his own age as a warning of the Antichrist's age, without calling it the fulfillment.
 
 Newman adds what the others leave out: the last persecution may come by craft and gradual division as well as by blood.
+
+The first-century reading is the plainest: Christians were killed for refusing worship. That is what the mark looks like when it is fulfilled.
 
 These are verdicts on arguments, not on any person.
 

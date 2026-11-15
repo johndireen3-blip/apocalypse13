@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 2 Weighed: Built from Daniel's Beasts | Apocalypse 13","description":"Revelation 13, mark 2: the seven heads and ten horns from Daniel 7. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 2 weighed","h1":"Built from Daniel's Beasts","lead":"Seven heads, ten horns, and Daniel's four kingdoms in one body: how each reading counts them.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 2","/built-from-daniels-beasts"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 2 Weighed: Built from Daniel's Beasts | Apocalypse 13","description":"Revelation 13, mark 2: the seven heads and ten horns from Daniel 7. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 2 weighed","h1":"Built from Daniel's Beasts","lead":"Seven heads, ten horns, and Daniel's four kingdoms in one body: how each reading counts them.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 2","/built-from-daniels-beasts"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,10 +14,11 @@ A reading that claims mark 2 must read the beast as Scripture explains it: a pow
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | Claims mark 2? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | Yes | The beast, "combining features of the four beasts in Dn 7," "symbolizes the Roman empire; the seven heads represent the emperors" ([note on 13:1–10](https://bible.usccb.org/bible/revelation/13)). On which emperors: "There is little agreement," and the number seven "suggests that all the emperors are meant" ([note on 17:10](https://bible.usccb.org/bible/revelation/17)) | It does not count the heads, which is its honesty and also its limit | [13](/the-standards#s13), [14](/the-standards#s14), [15](/the-standards#s15), [9](/the-standards#s9) met |
 | **St. Irenaeus** | Yes | The fourth kingdom (Rome) divides among ten kings; the one to come rises among them and subdues three (*Against Heresies* V.25.3; V.26.1) | The "ten kings" have been matched to many periods; nothing in the reading says when they will be seen | [1](/the-standards#s1), [2](/the-standards#s2), [15](/the-standards#s15), [16](/the-standards#s16) met |
 | **St. John Henry Newman** (1835) | Yes | The beast is Daniel's fourth beast, the Roman Empire, and its ten horns are ten kings ([lecture 3](https://newmanreader.org/works/arguments/antichrist/lecture3.html), §1). "The Roman Empire in the view of prophecy, remains even to this day" ([lecture 1](https://newmanreader.org/works/arguments/antichrist/lecture1.html), §2). He admits of the kingdoms that followed Rome, "it is difficult to number ten accurately and exactly" ([lecture 3](https://newmanreader.org/works/arguments/antichrist/lecture3.html), §2) | No application to test; he grants the fit of history to the ten is uncertain | [1](/the-standards#s1), [2](/the-standards#s2), [15](/the-standards#s15), [9](/the-standards#s9) met |
 | **Fr. Charles Arminjon** (1881) | Partly | The beast has "ten heads or diadems," which signify "ten dependent kings who will be his lieutenants" (*The End of the Present World*, p. 46) | He counts ten heads, not seven, and does not take up Daniel's four beasts or Revelation 17:9–11, so the heads go unexplained | [2](/the-standards#s2) met; [4](/the-standards#s4) partly met |
@@ -36,5 +37,7 @@ Arminjon counts ten heads rather than seven, so his reading offers no account of
 Miceli reads the seven heads as the emperors of John's own day, the first fulfillment, and says nothing of a later one.
 
 Newman reads the beast as Daniel's fourth, the Roman Empire still living in its successor kingdoms, and is candid that the ten kings cannot be counted in history. That candor is the model for every later reading of the heads and horns.
+
+The first-century reading takes the heads as Rome's emperors and declines to count them. A reading that counts them differently, as Fr. John's does, must first say why the emperors are not enough ([Standard 15](/the-standards#s15)).
 
 </div>

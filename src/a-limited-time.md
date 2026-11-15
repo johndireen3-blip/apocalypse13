@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 12 Weighed: A Limited Time | Apocalypse 13","description":"Revelation 13, mark 12: the forty-two months, with no date set. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 12 weighed","h1":"A Limited Time","lead":"The beast's authority is given for forty-two months: what each reading does with the number, and whether it keeps the Church's rule against setting dates.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 12","/a-limited-time"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 12 Weighed: A Limited Time | Apocalypse 13","description":"Revelation 13, mark 12: the forty-two months, with no date set. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 12 weighed","h1":"A Limited Time","lead":"The beast's authority is given for forty-two months: what each reading does with the number, and whether it keeps the Church's rule against setting dates.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 12","/a-limited-time"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,10 +14,11 @@ The number says that the beast's time is given, measured, broken (half of seven)
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | Claims mark 12? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | Yes, as a symbol | Forty-two months is the length of Antiochus's persecution of the Jews, which "became the prototype of periods of trial for God's people"; here it refers "to the persecution by the Romans" ([note on 11:2](https://bible.usccb.org/bible/revelation/11)) | No count is attempted, and none is possible on this reading | [5](/the-standards#s5), [14](/the-standards#s14) met |
 | **St. Irenaeus** | Yes | The half-week of Daniel is the reign of the one to come: "he will reign for three years and six months," and then the Lord comes (*Against Heresies* V.25.4; V.30.4) | He reads the span literally but builds no calendar on it | [1](/the-standards#s1), [2](/the-standards#s2), [5](/the-standards#s5), [16](/the-standards#s16) met |
 | **St. John Henry Newman** (1835) | Yes | "Antichrist shall reign only three years and a half," quoting St. Cyril ([lecture 4](https://newmanreader.org/works/arguments/antichrist/lecture4.html), §3); since no such tyranny has yet run its course, the Antichrist has not yet come ([lecture 1](https://newmanreader.org/works/arguments/antichrist/lecture1.html), §1) | No application to test; he sets no date | [5](/the-standards#s5), [25](/the-standards#s25) met |
 | **Fr. Charles Arminjon** (1881) | Yes | "God will shorten the duration of his power, limiting it to forty-two months, or three and a half years" (*The End of the Present World*, p. 50), which may count only his full dominion and not the conquest before it | He keeps the span literal but builds no calendar on it | [1](/the-standards#s1), [5](/the-standards#s5), [25](/the-standards#s25) met |
@@ -36,6 +37,8 @@ Arminjon keeps the forty-two months literal, as St. Irenaeus does, and sets no d
 Miceli keeps the three and a half years and sets no date.
 
 Newman keeps the three and a half years and sets no date.
+
+The first-century reading takes the forty-two months as a symbol of any time of trial, which is also how the Church reads them.
 
 These are verdicts on arguments, not on any person.
 

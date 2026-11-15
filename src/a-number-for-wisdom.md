@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 13 Weighed: The Number 666 | Apocalypse 13","description":"Revelation 13, mark 13: the number of the beast, 666. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 13 weighed","h1":"A Number That Calls for Wisdom","lead":"Six hundred and sixty-six, a number that stands for a person: what each reading does with it, and whether it keeps the wisdom the text asks for.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 13","/a-number-for-wisdom"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 13 Weighed: The Number 666 | Apocalypse 13","description":"Revelation 13, mark 13: the number of the beast, 666. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 13 weighed","h1":"A Number That Calls for Wisdom","lead":"Six hundred and sixty-six, a number that stands for a person: what each reading does with it, and whether it keeps the wisdom the text asks for.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 13","/a-number-for-wisdom"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,10 +14,11 @@ Read in context ([Standard 4](/the-standards#s4)), the number belongs to the fir
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | Claims mark 13? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | Yes, a name | "The most likely is the emperor Caesar Nero," whose name in Hebrew letters gives 666, and in its Latin form 616, the reading of a few manuscripts; "Nero personifies the emperors who viciously persecuted the church." Six is also "imperfection," short of seven, tripled ([note on 13:18](https://bible.usccb.org/bible/revelation/13)) | "Many candidates have been nominated"; the note says "most likely," not certain; Irenaeus, who knew the 616 reading, did not know this solution | [13](/the-standards#s13), [15](/the-standards#s15), [9](/the-standards#s9) met |
 | **St. Irenaeus** | Yes, without a name | The number sums up all apostasy (Noah's six hundred years; Nebuchadnezzar's statue, sixty cubits by six). He weighs names that fit and names no one: it is "more certain, and less hazardous, to await the fulfilment" (*Against Heresies* V.29.2; V.30.3) | Not applicable: he declines to apply it | [1](/the-standards#s1), [2](/the-standards#s2), [9](/the-standards#s9), [24](/the-standards#s24) met |
 | **St. John Henry Newman** (1835) | Reports the Fathers; gives no name | He reports that Irenaeus and Hippolytus found the number in *Lateinos*, "the name of the last empire," and says such anticipations are not confirmed ([lecture 2](https://newmanreader.org/works/arguments/antichrist/lecture2.html), §4) | No reading of his own | [2](/the-standards#s2), [9](/the-standards#s9) met |
 | **Fr. Charles Arminjon** (1881) | Yes, without a name | The Fathers' search for the key to the number "has come to nothing"; with St. Irenaeus, its meaning is to remain unknown "until the fulfillment" (*The End of the Present World*, pp. 51–52) | Not applicable: he declines to apply it | [1](/the-standards#s1), [9](/the-standards#s9) met |
@@ -36,6 +37,8 @@ Arminjon, with St. Irenaeus, declines to decode the number.
 Miceli reports St. Irenaeus's reading of the number and his warning against guessing the name, and offers none of his own.
 
 Newman reports the Fathers' *Lateinos* and declines to confirm it, keeping the reserve of Irenaeus.
+
+The first-century reading is the only one here that gives the number a name, Caesar Nero, and it explains the variant 616 as no other reading does. It calls this "most likely," not certain.
 
 These are verdicts on arguments, not on any person.
 

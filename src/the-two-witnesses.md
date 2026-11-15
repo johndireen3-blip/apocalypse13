@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-11-15","title":"Revelation 11 Weighed: The Two Witnesses | Apocalypse 13","description":"Revelation 11:3–12: the two witnesses. Six readings, Fr. John's proposal of Elijah and Pope Leo XIV included, weighed by the same standards.","kicker":"Revelation 11 weighed","h1":"The Two Witnesses","lead":"Two prophets in sackcloth, killed by the beast and raised by God: what each reading makes of them, and whether a living man can be named as one.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 11","/the-two-witnesses"]],"wide":true}-->
+<!--{"reviewed":"2026-11-15","title":"Revelation 11 Weighed: The Two Witnesses | Apocalypse 13","description":"Revelation 11:3–12: the two witnesses. Seven readings, Fr. John's proposal of Elijah and Pope Leo XIV included, weighed by the same standards.","kicker":"Revelation 11 weighed","h1":"The Two Witnesses","lead":"Two prophets in sackcloth, killed by the beast and raised by God: what each reading makes of them, and whether a living man can be named as one.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 11","/the-two-witnesses"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -13,10 +13,11 @@ Read in context ([Standard 4](/the-standards#s4)), the passage gives four things
 
 </div>
 
-## The six readings
+## The seven readings
 
 | Reading | What it holds | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
+| **The first-century reading** (NABRE notes) | The Church, above all her martyrs | The witnesses "cannot readily be identified. Do they represent Moses and Elijah, or the Law and the Prophets, or Peter and Paul? Most probably they refer to the universal church, especially the Christian martyrs." The beast from the abyss is "the Roman emperor Nero, who symbolizes the forces of evil, or the antichrist"; the great city is Rome ([note on 11:3–8](https://bible.usccb.org/bible/revelation/11)) | It sets aside the Fathers' expectation of Elijah in person without discussing it | [14](/the-standards#s14), [15](/the-standards#s15), [9](/the-standards#s9) met; [17](/the-standards#s17) partly met |
 | **St. Irenaeus** | Not taken up in *Against Heresies* V | — | Not applicable | — |
 | **St. John Henry Newman** (1835) | Not taken up in his own voice | In a postscript he prints Bishop Horsley's letter, which reads "the sackcloth ministry of the witnesses" as the faithful remnant of the Church ([lecture 4](https://newmanreader.org/works/arguments/antichrist/lecture4.html)) | Not applicable | — |
 | **Fr. Charles Arminjon** (1881) | Enoch and Elijah, kept alive by God for this mission | Bede, Anselm and Augustine (*The End of the Present World*, pp. 52–56; n. 30); Elijah's preaching turns Israel to Christ, "to form with the Christians one flock and one fold" (p. 54) | No application to test; the Fathers do not agree on Enoch | [1](/the-standards#s1), [2](/the-standards#s2), [17](/the-standards#s17) met |
@@ -37,6 +38,8 @@ The suggestion that the two might testify at different times he holds "as a bare
 His two observations, on the two beginnings in 2025 and on Fatima's hundredth year, are labeled as not evidence, counted from nothing and pointed at no date. Held that way they break no standard. They would break [Standard 5](/the-standards#s5) and [Standard 24](/the-standards#s24) the moment anyone counted forward from them.
 
 The safeguards are the reading's strongest feature. It sets no time, forbids its readers to expect anyone's death, and ends in prayer for the Pope. Arminjon and Miceli give the tradition's answer for the second witness, Enoch, with the freedom the Fathers leave. Thiel's reading does not take up the passage.
+
+The first-century reading, in the Bible Fr. John quotes, judges that the witnesses are "most probably" the universal Church and her martyrs, and lists Peter and Paul among the proposals. That supports the half of his reading that sees the Church in the second witness, and it weighs against naming any one man.
 
 These are verdicts on arguments, not on any person.
 
