@@ -67,6 +67,6 @@ Arminjon is cited from *The End of the Present World and the Mysteries of the Fu
 
 <div class="narrow-in" markdown>
 
-Revelation 17, the harlot who rides the beast and the ten kings, is weighed on its own page: [The Harlot and the Ten Kings](/the-harlot-and-the-ten-kings). Revelation 11, the two witnesses, is weighed on [The Two Witnesses](/the-two-witnesses).
+Revelation 17, the harlot who rides the beast and the ten kings, is weighed on its own page: [The Harlot and the Ten Kings](/the-harlot-and-the-ten-kings). Revelation 11, the two witnesses, is weighed on [The Two Witnesses](/the-two-witnesses). Revelation 16:13–14, the three frogs, is weighed on [The Three Frogs](/the-three-frogs).
 
 </div>
