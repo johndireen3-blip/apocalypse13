@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 9 Weighed: Deception by Signs | Apocalypse 13","description":"Revelation 13, mark 9: great signs, even fire from heaven. Five readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 9 weighed","h1":"Deception by Signs","lead":"Great signs, even fire from heaven, done in the first beast's sight to deceive: what each reading points to, and whether it shows a deceiving wonder or an act of state.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 9","/deception-by-signs"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 9 Weighed: Deception by Signs | Apocalypse 13","description":"Revelation 13, mark 9: great signs, even fire from heaven. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 9 weighed","h1":"Deception by Signs","lead":"Great signs, even fire from heaven, done in the first beast's sight to deceive: what each reading points to, and whether it shows a deceiving wonder or an act of state.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 9","/deception-by-signs"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,11 +14,12 @@ Read in context ([Standard 4](/the-standards#s4)) and with Scripture's own test 
 
 </div>
 
-## The five readings
+## The six readings
 
 | Reading | Claims mark 9? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Yes | The false prophet's wonders come by magic, not by divine power, with demons at his service, to lead the earth astray (*Against Heresies* V.28.2) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16) met |
+| **St. John Henry Newman** (1835) | Yes, given to the Antichrist | The last persecution will be supported by claims of miracles: "signs and wonders… insomuch that, if it were possible, they shall deceive the very elect" ([lecture 4](https://newmanreader.org/works/arguments/antichrist/lecture4.html), §2) | He does not distinguish the second beast; no application to test | [1](/the-standards#s1), [16](/the-standards#s16) met |
 | **Fr. Charles Arminjon** (1881) | Yes | Gives the signs to the Antichrist himself: "the man of sin will make fire come down from heaven, in order to create the belief that he is the master of nature" (*The End of the Present World*, p. 47); the wonders are "false and apparent" (n. 18, p. 70) | He merges the two beasts, where the text gives the signs to the second (13:11–13) | [2](/the-standards#s2), [16](/the-standards#s16) met; [4](/the-standards#s4) partly met |
 | **Fr. Vincent Miceli, S.J.** (1981) | Yes | "Performing marvelous deeds, even drawing down fire from heaven, the beast of the earth leads the inhabitants of the earth astray" (*The Antichrist*, p. 37); "signs and lying wonders by the power of Satan" (p. 33). In his own words: whether the wonders are real, pretended, or "the result of the Antichrist's virtuosity in manipulating the forces of science makes little difference" (p. 120) | No application to test | [1](/the-standards#s1), [16](/the-standards#s16) met |
 | **Peter Thiel** | In literature only | He reads a weapon "resembling a nuclear bomb" in the manga *One Piece* beside the fire called down from heaven (Revelation 13:13) ([*First Things*, November 2025](https://firstthings.com/voyages-to-the-end-of-the-world/)) | A reading of a story, applied to nothing in the world; the false prophet who works the signs is not addressed | — |
@@ -33,6 +34,8 @@ Fr. John places the false prophet at the threshold of a war that came "from heav
 Arminjon gives the fire from heaven to the first beast, so his reading cannot help decide which figure works the signs.
 
 Miceli gives the fire from heaven to the second beast, as the text does, and allows in his own voice that the signs may be worked by "manipulating the forces of science" (p. 120), which leaves room for signs worked through technology.
+
+Newman, like Arminjon, gives the signs to the Antichrist himself.
 
 These are verdicts on arguments, not on any person.
 

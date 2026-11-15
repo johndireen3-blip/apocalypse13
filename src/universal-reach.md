@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 8 Weighed: Universal Reach | Apocalypse 13","description":"Revelation 13, mark 8: authority over every tribe, tongue and nation. Five readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 8 weighed","h1":"Universal Reach","lead":"Authority over every tribe, people, tongue and nation: what each reading points to, and whether it shows authority or only influence.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 8","/universal-reach"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 8 Weighed: Universal Reach | Apocalypse 13","description":"Revelation 13, mark 8: authority over every tribe, tongue and nation. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 8 weighed","h1":"Universal Reach","lead":"Authority over every tribe, people, tongue and nation: what each reading points to, and whether it shows authority or only influence.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 8","/universal-reach"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,11 +14,12 @@ Read in context ([Standard 4](/the-standards#s4)), the beast's reach is *authori
 
 </div>
 
-## The five readings
+## The six readings
 
 | Reading | Claims mark 8? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Yes, centrally | The empire of his day will be divided among ten kings; the one to come will slay three and "subject the remainder to his power," and they "shall give their kingdom to the beast" (*Against Heresies* V.26.1) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16), [17](/the-standards#s17) met |
+| **St. John Henry Newman** (1835) | Partly | He rises when the present order of society breaks up and reorganizes it under himself; Newman saw in his own day "a confederacy of evil, marshalling its hosts from all parts of the world" ([lecture 1](https://newmanreader.org/works/arguments/antichrist/lecture1.html), §§3–4) | He names no state and does not describe a world government; whether the confederacy would bring the Antichrist "we cannot know" | [9](/the-standards#s9) met |
 | **Fr. Charles Arminjon** (1881) | Yes | "His power will extend over all tribes and peoples, over men of every nation and language" (*The End of the Present World*, p. 46); the persecution "will extend over the whole earth" (p. 63) | No application to test; he sees the railway and the telegraph making such rule possible (p. 59) but names no state | [1](/the-standards#s1), [16](/the-standards#s16) met |
 | **Fr. Vincent Miceli, S.J.** (1981) | Yes | "The seizing of the world power by the Antichrist" (*The Antichrist*, p. 33), with Revelation 13:7 quoted (p. 18) | Rests mostly on quoting the text; no application to test | [1](/the-standards#s1) met |
 | **Peter Thiel** | Yes, centrally | A world government that halts science and technology in the name of "peace and safety," embraced by a frightened world. His first essay traces the "one world" idea from Bacon's ocean empire to the twentieth century, and reads the world governments of *Watchmen* and *One Piece* as its image ([*First Things*, November 2025](https://firstthings.com/voyages-to-the-end-of-the-world/)) | He names no present world state and reads the danger as a tendency; the Church does not condemn international authority as such (*Pacem in Terris* 137). *Avvenire*, the Italian bishops' newspaper, wrote that his definition could apply to "anyone who places limits on unlimited progress" ([Fortune, March 2026](https://fortune.com/2026/03/16/peter-thiel-antichrist-theory-rome-lectures-vatican-response/)) | [15](/the-standards#s15) partly met; [3](/the-standards#s3) to watch; [20](/the-standards#s20) to watch: a political program read into the text |
@@ -33,6 +34,8 @@ Fr. John shows a presidency using its reach over other nations unusually directl
 Arminjon reads the reach as literal world rule, and notes the means his own century had made possible without naming any state.
 
 Miceli reads the reach as world power seized by one man, with no application to test.
+
+Newman describes a society reorganized under one man but names no state and will not say the hour has come.
 
 These are verdicts on arguments, not on any person.
 

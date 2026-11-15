@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 3 Weighed: A Counterfeit Resurrection | Apocalypse 13","description":"Revelation 13, mark 3: the head that seemed mortally wounded and was healed. Five readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 3 weighed","h1":"A Counterfeit Resurrection","lead":"A wound that seemed mortal, a healing, and a world that follows in fascination: how each reading meets all three.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 3","/a-counterfeit-resurrection"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 3 Weighed: A Counterfeit Resurrection | Apocalypse 13","description":"Revelation 13, mark 3: the head that seemed mortally wounded and was healed. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 3 weighed","h1":"A Counterfeit Resurrection","lead":"A wound that seemed mortal, a healing, and a world that follows in fascination: how each reading meets all three.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 3","/a-counterfeit-resurrection"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,11 +14,12 @@ Read in context ([Standard 4](/the-standards#s4)), the mark has three parts: a w
 
 </div>
 
-## The five readings
+## The six readings
 
 | Reading | Claims mark 3? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus, with St. Hippolytus** | Yes | Irenaeus quotes 13:3 among the Antichrist's signs (*Against Heresies* V.28.2); Hippolytus reads the wound as the empire struck down and restored (*On Christ and Antichrist* 49) | Irenaeus does not explain the wound; the Fathers' readings differ | [1](/the-standards#s1), [2](/the-standards#s2) met; [9](/the-standards#s9) met (no one named) |
+| **St. John Henry Newman** (1835) | Yes, of the empire | He reads the beast that "was, and is not, and shall ascend" of the Roman Empire: if it lies prostrate, "then it must one day *revive*" ([lecture 3](https://newmanreader.org/works/arguments/antichrist/lecture3.html), §2) | A reading of an empire, not of one man's wound; no application to test | [2](/the-standards#s2), [15](/the-standards#s15) met |
 | **Fr. Charles Arminjon** (1881) | Yes | The first of the false miracles is "an apparent resurrection": "he will be mortally wounded in the head. For a time he will be seen lifeless, apparently dead. Then, suddenly, he will rise" (*The End of the Present World*, p. 46) | A literal wound in one man's body, where St. Hippolytus reads the empire; he does not say how the world's fascination follows | [1](/the-standards#s1), [2](/the-standards#s2) met; [9](/the-standards#s9) met (no one named) |
 | **Fr. Vincent Miceli, S.J.** (1981) | Yes, with Newman | Following Newman, the Roman empire is "the fourth monster, whose head was wounded and healed": destroyed and divided into ten, it is restored by the Antichrist (*The Antichrist*, p. 114). He also reports a medieval poem in which the Antichrist "feigns resurrection from the dead" (p. 91) | The healed head is an empire revived, not a man; he gives Newman's reading without weighing others | [2](/the-standards#s2) met; [29](/the-standards#s29) partly met |
 | **Peter Thiel** | No | Neither essay takes up the wound and its healing | Not applicable | — |
@@ -35,5 +36,7 @@ Fr. John's reading gives the mark's first two parts a concrete fulfillment and a
 Arminjon reads the wound literally, as a feigned death and rising of one man, a reading the text allows but does not require.
 
 Miceli, following Newman, reads the healed head as the Roman empire revived by the Antichrist, a reading of an empire's return rather than a man's.
+
+Newman reads the revival of the empire, not of a man; Miceli follows him.
 
 </div>

@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 17 Weighed: The Harlot and the Ten Kings | Apocalypse 13","description":"Revelation 17: the harlot, the ten kings and the day they turn on her. Five readings, Fr. John's included, weighed by the same standards.","kicker":"Revelation 17 weighed","h1":"The Harlot and the Ten Kings","lead":"John's own key to his visions, and the chapter where readings of Revelation have most often gone wrong: what each reading makes of the harlot and the kings.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 17","/the-harlot-and-the-ten-kings"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 17 Weighed: The Harlot and the Ten Kings | Apocalypse 13","description":"Revelation 17: the harlot, the ten kings and the day they turn on her. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Revelation 17 weighed","h1":"The Harlot and the Ten Kings","lead":"John's own key to his visions, and the chapter where readings of Revelation have most often gone wrong: what each reading makes of the harlot and the kings.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 17","/the-harlot-and-the-ten-kings"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,11 +14,12 @@ Revelation 17 offers its own interpretation (17:7–18), and the Church's first 
 
 </div>
 
-## The five readings
+## The six readings
 
 | Reading | What it holds | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | The ten kings are the kingdoms into which the empire will be divided; the one to come rises among them, slays three and subjects the rest, and they "shall give their kingdom to the beast" (*Against Heresies* V.26.1). St. Hippolytus reads the harlot as "that great city, which reigns over the kings of the earth" (*On Christ and Antichrist* 39) | The text of Daniel 7 and Revelation 17 read together | His expectation of ten kings from the breakup of Rome; St. Augustine already warned that ten may be a symbolic number (*City of God* XX.23) | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16), [17](/the-standards#s17) met |
+| **St. John Henry Newman** (1835) | The harlot is the city of Rome, "Babylon the Great"; the beast she rides is the Roman Empire; the ten kings destroy Rome, and the Antichrist then subdues them ([lecture 3](https://newmanreader.org/works/arguments/antichrist/lecture3.html)) | The angel's own words: "that great city, which reigneth over the kings of the earth." Rome has been judged in part (three sackings, plague, earthquake) but not destroyed, so the prophecy is still open (§§2–4). It has been spared because "the Church dwelt in Rome," as Sodom would have been for ten just men (§5). He allows that Rome may also be a type of the worldly spirit of all great cities | No application to test; he grants that the ten kings cannot be counted in history; written while he was an Anglican, the lecture reports, without adopting, the charge that the Roman Church shared the city's sins | [1](/the-standards#s1), [2](/the-standards#s2), [15](/the-standards#s15), [9](/the-standards#s9) met |
 | **Fr. Charles Arminjon** (1881) | No reading of the harlot. The ten heads and diadems "signify ten dependent kings who will be his lieutenants" (*The End of the Present World*, p. 46) | "Interpreters," unnamed | He does not take up Revelation 17, the harlot, or the three kings humbled | [2](/the-standards#s2) partly met |
 | **Fr. Vincent Miceli, S.J.** (1981) | "Pagan Rome, seated as queen of the world on seven hills ... is the kingdom of Satan" (*The Antichrist*, p. 37); Daniel's ten kings, Alexander's successors, are "figures and types of political powers that shall be persecuting the Church about the time of the Antichrist" (p. 39). Following Newman, "the beast that was and is not" is the Roman empire's resurrection, and Rome as the city of the Antichrist is left open (pp. 115–116) | Revelation 17:12; H. M. Féret, *The Apocalypse of St. John*; Newman, *Tracts for the Times* 83 | He reads the chapter as first-century Rome and leaves the last fulfillment unstated | [4](/the-standards#s4), [15](/the-standards#s15) met |
 | **Peter Thiel** | Not a reading of the harlot, but it meets the chapter at 17:16: for Thiel the Antichrist is the power that would halt science and technology, "a luddite who wants to stop all science" | His public lectures (2024–2026) | If the harlot is the technological economy, Thiel's Antichrist is the power that burns her, so his reading and Fr. John's describe the same event and disagree on who the beast is; his reading sets him against the Church's call to govern technology, not halt or worship it | [3](/the-standards#s3) to watch |
@@ -33,6 +34,8 @@ Fr. John approaches Revelation 17 with more reserve than chapter 13, grading onl
 Arminjon reads the ten kings as the Antichrist's lieutenants and does not take up the harlot.
 
 Miceli reads the city as pagan Rome and the ten kings as types of the powers that will persecute the Church, leaving their last fulfillment unstated.
+
+Newman gives the fullest account of the chapter in the tradition: the city of Rome, judged in part and spared for the sake of the Church within it, with the ten kings still to come. He admits the history does not yet fit, and leaves it open.
 
 These are verdicts on arguments, not on any person.
 

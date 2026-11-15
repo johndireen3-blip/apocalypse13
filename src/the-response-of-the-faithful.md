@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 14 Weighed: The Response of the Faithful | Apocalypse 13","description":"Revelation 13, mark 14: the endurance of the holy ones, the measure of every reading. Five readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 14 weighed","h1":"The Response Asked of the Faithful","lead":"The one mark that is not about the beast. Every reading is weighed here by its fruit: what it asks of those who read it.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 14","/the-response-of-the-faithful"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 14 Weighed: The Response of the Faithful | Apocalypse 13","description":"Revelation 13, mark 14: the endurance of the holy ones, the measure of every reading. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 14 weighed","h1":"The Response Asked of the Faithful","lead":"The one mark that is not about the beast. Every reading is weighed here by its fruit: what it asks of those who read it.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 14","/the-response-of-the-faithful"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,11 +14,12 @@ This mark is not claimed; it is lived. Revelation 13 is written so that the holy
 
 </div>
 
-## The five readings
+## The six readings
 
 | Reading | What it asks of its readers | What weighs against | Standards |
 | --- | --- | --- | --- |
 | **St. Irenaeus** | Endurance through a trial the Church must pass through, and hope in the Lord's coming and the kingdom of the just; patience rather than speculation about the name (*Against Heresies* V.30) | Little: his book was written to strengthen the faithful against error | [12](/the-standards#s12), [27](/the-standards#s27) met |
+| **St. John Henry Newman** (1835) | To live as "pilgrims, watchers waiting for the morning"; to learn the signs and teach them to others; and to shun the worldly spirit, with its "haughty contempt for the Church, her ministers, her lowly people" ([lecture 4](https://newmanreader.org/works/arguments/antichrist/lecture4.html), §5; [lecture 3](https://newmanreader.org/works/arguments/antichrist/lecture3.html), §6) | Nothing: this is the response the text asks | [12](/the-standards#s12), [27](/the-standards#s27) met |
 | **Fr. Charles Arminjon** (1881) | Prepare now, "by having recourse to Him through prayer, and by providing ourselves with the spiritual weapons of charity and faith" (*The End of the Present World*, p. 48), for "evils foreseen do less harm" (p. 50) | His pages on the Jews of his own day (pp. 60–63) praise them but also cast them as a people bent on gold and power, which does not build up charity | [12](/the-standards#s12) met; [28](/the-standards#s28) not met on pp. 60–63 |
 | **Fr. Vincent Miceli, S.J.** (1981) | Watch, pray and resist: his book aims at "a competent, successful, courageous, holy Resistance Movement among Christians against the devil" (*The Antichrist*, p. 14), knowing that "reproach and suffering are to be their normal lot" (p. 20); and in his last chapter, to be "men and women of Mary," whom he expects to crush the serpent's head (pp. 258, 270) | The resistance he means is against the devil, not a political one; but in reporting the Fathers he writes in his own voice of "that race which rejected Christ" and "the willingness of the Jewish leaders to be seduced by the Antichrist" (pp. 54, 56) | [12](/the-standards#s12), [27](/the-standards#s27) met; [28](/the-standards#s28) not met on pp. 54, 56, 112, and above all in ch. 8 (pp. 129, 148, 152) |
 | **Peter Thiel** | Vigilance against fear: not to surrender freedom, science and technology to a world authority in exchange for "peace and safety." Asked "Antichrist or Armageddon?", his first essay answers "Neither," and ends in faith "as little children" (Matthew 18:3) ([*First Things*, November 2025](https://firstthings.com/voyages-to-the-end-of-the-world/)); his second ends by asking "who can hope for salvation in philosophical reticence?" ([*First Things*, August 2026](https://firstthings.com/the-pope-and-the-antichrist/)) | His response is chiefly political and technological, not the endurance and faith the text asks. The theologian Douglas Farrow answers that "Antichrist or Armageddon?" is not a biblical choice, and asks of the two authors, "Why do they show no interest in Jesus Christ?" ([Farrow](https://douglasfarrow.substack.com/p/corrupting-the-katechon)). His public naming of living people as examples of the Antichrist's program (Greta Thunberg, called by him a servant of the Antichrist, and Eliezer Yudkowsky) does not build up charity ([CTV News](https://www.ctvnews.ca/world/article/tech-billionaire-thiel-says-greta-thunberg-servant-of-antichrist/); [Gizmodo](https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964)) | [27](/the-standards#s27) not met in the lectures as reported; [12](/the-standards#s12) partly met: the essays end in hope |
@@ -33,6 +34,8 @@ On this mark Fr. John's reading asks of its readers what Revelation 13:9–10 as
 Arminjon asks for prayer, charity and faith now; his pages on the Jews of his own day are weighed under Standard 28, as noted on [Beyond Revelation 13](/marks#beyond).
 
 Miceli asks for a "holy Resistance Movement" against the devil, joined to watchfulness and prayer; two lines of his fourth chapter on the Jewish people are weighed under Standard 28, as noted on [Beyond Revelation 13](/marks#beyond).
+
+Newman asks for watchfulness and a life lived as pilgrims, which is the response the text asks.
 
 These are verdicts on arguments, not on any person.
 

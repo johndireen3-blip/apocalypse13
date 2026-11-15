@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 6 Weighed: Worship Demanded | Apocalypse 13","description":"Revelation 13, mark 6: the worship of the beast demanded of the whole earth. Five readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 6 weighed","h1":"Worship Demanded","lead":"The whole earth bows to the beast, and a second beast enforces it: what each reading points to, and whether it reaches worship or only loyalty.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 6","/worship-demanded"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 6 Weighed: Worship Demanded | Apocalypse 13","description":"Revelation 13, mark 6: the worship of the beast demanded of the whole earth. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 6 weighed","h1":"Worship Demanded","lead":"The whole earth bows to the beast, and a second beast enforces it: what each reading points to, and whether it reaches worship or only loyalty.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 6","/worship-demanded"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,11 +14,12 @@ The mark moves from fascination, to worship given, to worship enforced (Revelati
 
 </div>
 
-## The five readings
+## The six readings
 
 | Reading | Claims mark 6? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Yes, centrally | The one to come sets aside all idols so that he alone is adored as God, and sits in the temple showing himself as God; his armor-bearer, the false prophet, makes the image speak and has those who will not adore it slain (*Against Heresies* V.25.1; V.28.2) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16), [17](/the-standards#s17) met |
+| **St. John Henry Newman** (1835) | Yes | The Antichrist puts down all worship and yet honours "a strange god" (Daniel 11:39); so the French revolutionaries professed atheism and then "literally worshipped" Liberty "as a divinity" ([lecture 2](https://newmanreader.org/works/arguments/antichrist/lecture2.html), §3) | No application to test | [1](/the-standards#s1), [16](/the-standards#s16) met |
 | **Fr. Charles Arminjon** (1881) | Yes, centrally | "He will have altars erected to himself and will compel all peoples to adore him" (*The End of the Present World*, p. 41); "He will not permit anyone to worship or invoke any other god than himself" (p. 68) | No application to test; the worship is enforced by the Antichrist himself, with no false prophet | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16) met |
 | **Fr. Vincent Miceli, S.J.** (1981) | Yes | The second beast "leads nations to the worship of its master" (*The Antichrist*, p. 37); some read the abomination of desolation as the Antichrist "demanding from his followers acts of adoration and sacrifice" (p. 43) | No application to test | [1](/the-standards#s1), [16](/the-standards#s16) met |
 | **Peter Thiel** | Partly | The world submits to a single global authority because it fears catastrophe and is promised "peace and safety" (1 Thessalonians 5:3) | The material reviewed speaks of consent to a world state, not of worship of a person or an image; no false prophet or image is identified | [15](/the-standards#s15) partly met; [4](/the-standards#s4) partly met |
@@ -33,6 +34,8 @@ Fr. John documents an unusual concentration of personal honor in a sitting presi
 Arminjon reads the mark as compelled adoration of one man, as St. Irenaeus does, but without the second beast who enforces it.
 
 Miceli keeps the second beast as the one who enforces the worship, as the text does.
+
+Newman's observation that unbelief ends by inventing a worship of its own, as the Revolution did, is the tradition's best account of how a blasphemer can also be worshiped.
 
 These are verdicts on arguments, not on any person.
 

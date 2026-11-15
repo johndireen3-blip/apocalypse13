@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-11-15","title":"Revelation 16 Weighed: The Three Frogs | Apocalypse 13","description":"Revelation 16:13–14: three unclean spirits like frogs. Five readings, Fr. John's three named candidates included, weighed by the same standards.","kicker":"Revelation 16 weighed","h1":"The Three Frogs","lead":"Three unclean spirits from three mouths, sent to gather the kings of the world: what each reading makes of them, and whether spirits can be read as three named men.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 16","/the-three-frogs"]],"wide":true}-->
+<!--{"reviewed":"2026-11-15","title":"Revelation 16 Weighed: The Three Frogs | Apocalypse 13","description":"Revelation 16:13–14: three unclean spirits like frogs. Six readings, Fr. John's three named candidates included, weighed by the same standards.","kicker":"Revelation 16 weighed","h1":"The Three Frogs","lead":"Three unclean spirits from three mouths, sent to gather the kings of the world: what each reading makes of them, and whether spirits can be read as three named men.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 16","/the-three-frogs"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -18,6 +18,7 @@ Read in context ([Standard 4](/the-standards#s4)), the passage says three things
 | Reading | What it holds | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Not taken up in *Against Heresies* V | — | Not applicable | — |
+| **St. John Henry Newman** (1835) | Not found in the four lectures | — | Not applicable | — |
 | **Fr. Charles Arminjon** (1881) | Not in the material reviewed | — | Not applicable | — |
 | **Fr. Vincent Miceli, S.J.** (1981) | Not in the material reviewed | — | Not applicable | — |
 | **Peter Thiel** | Not in the material reviewed | — | Not applicable | — |

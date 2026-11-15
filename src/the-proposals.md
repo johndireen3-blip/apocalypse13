@@ -1,5 +1,5 @@
-<!--{"reviewed":"2026-10-26","title":"The Readings of Revelation 13 | Apocalypse 13","description":"The five readings of Revelation 13 weighed here, each stated at its best: Irenaeus, Arminjon, Miceli, Peter Thiel and Fr. John's own proposal.","kicker":"The readings","h1":"The Proposals","lead":"Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).","crumbs":[["Home","/"],["The Proposals","/the-proposals"]]}-->
-Five readings are weighed so far. More will be added, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter. Claude's own view of Revelation 13 is set out apart from the readings, on its own page: [How Claude Reads Revelation 13](/how-claude-reads-revelation-13). It is not weighed in the tables.
+<!--{"reviewed":"2026-10-26","title":"The Readings of Revelation 13 | Apocalypse 13","description":"The six readings of Revelation 13 weighed here, each stated at its best: Irenaeus, Newman, Arminjon, Miceli, Peter Thiel and Fr. John's own proposal.","kicker":"The readings","h1":"The Proposals","lead":"Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).","crumbs":[["Home","/"],["The Proposals","/the-proposals"]]}-->
+Six readings are weighed so far. More will be added, each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter. Claude's own view of Revelation 13 is set out apart from the readings, on its own page: [How Claude Reads Revelation 13](/how-claude-reads-revelation-13). It is not weighed in the tables.
 
 <div class="card proposal" markdown>
 
@@ -8,6 +8,18 @@ Five readings are weighed so far. More will be added, each stated at its best be
 St. Irenaeus of Lyon, writing around A.D. 180, gives the earliest full reading of the beast by a Father of the Church (*Against Heresies* V.25–30). He reads the beast from the sea as one man to come at the end, who receives all the power of the devil, sets himself up to be worshiped as God, and rises among ten kings into whom the Roman Empire is divided. He reads the beast from the earth as his armor-bearer, the false prophet. He will not guess the beast's name: the number, he says, was left hidden so that it would be recognized only when it is fulfilled (V.30.3).
 
 He is weighed here as the classic reading because he applies the text to no one in the present, so his reading shows what a faithful reading of the marks looks like before any application is made. St. Hippolytus and St. Cyril of Jerusalem are drawn in where they add to him.
+
+</div>
+
+<div class="card proposal" markdown>
+
+## St. John Henry Newman: the Fathers gathered [[auth:father]]
+
+St. John Henry Newman (1801–1890) preached four Advent sermons on the Antichrist at Oxford in 1835, while still an Anglican clergyman, and published them as "The Patristical Idea of Antichrist." As a Catholic he kept them in print in his collected works. He was canonized in 2019 and declared a Doctor of the Church by Pope Leo XIV in 2025. His aim was not to offer a reading of his own but to set out what the Fathers expected, while noting that they are surer guides in doctrine than in unfulfilled prophecy.
+
+With the Fathers he holds that the Antichrist will be "one man, an individual, not a power or a kingdom" ([lecture 1](https://newmanreader.org/works/arguments/antichrist/lecture1.html)); that he comes after a great apostasy and when the power that restrains him, the Roman Empire and the order that descends from it, is taken away; that he will be an open blasphemer who nevertheless sets up a worship of his own ([lecture 2](https://newmanreader.org/works/arguments/antichrist/lecture2.html)); that the harlot of Revelation 17 is the city of Rome ([lecture 3](https://newmanreader.org/works/arguments/antichrist/lecture3.html)); and that his persecution will last three and a half years and silence the Church's public worship ([lecture 4](https://newmanreader.org/works/arguments/antichrist/lecture4.html)). He names the shadows that have gone before, Antiochus, Julian, Mahomet and the French Revolution, and he names no one as the Antichrist. Of his own age he says only that an apostasy seemed to be gathering, and that whether it would bring the Antichrist "we cannot know."
+
+He is weighed here as the fullest gathering of the Fathers by a Doctor of the Church, and because Miceli builds on him. The lectures are cited by number and section from the text at newmanreader.org.
 
 </div>
 

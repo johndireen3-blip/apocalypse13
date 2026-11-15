@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 13 Weighed: The Number 666 | Apocalypse 13","description":"Revelation 13, mark 13: the number of the beast, 666. Five readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 13 weighed","h1":"A Number That Calls for Wisdom","lead":"Six hundred and sixty-six, a number that stands for a person: what each reading does with it, and whether it keeps the wisdom the text asks for.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 13","/a-number-for-wisdom"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 13 Weighed: The Number 666 | Apocalypse 13","description":"Revelation 13, mark 13: the number of the beast, 666. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 13 weighed","h1":"A Number That Calls for Wisdom","lead":"Six hundred and sixty-six, a number that stands for a person: what each reading does with it, and whether it keeps the wisdom the text asks for.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 13","/a-number-for-wisdom"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,11 +14,12 @@ Read in context ([Standard 4](/the-standards#s4)), the number belongs to the fir
 
 </div>
 
-## The five readings
+## The six readings
 
 | Reading | Claims mark 13? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Yes, without a name | The number sums up all apostasy (Noah's six hundred years; Nebuchadnezzar's statue, sixty cubits by six). He weighs names that fit and names no one: it is "more certain, and less hazardous, to await the fulfilment" (*Against Heresies* V.29.2; V.30.3) | Not applicable: he declines to apply it | [1](/the-standards#s1), [2](/the-standards#s2), [9](/the-standards#s9), [24](/the-standards#s24) met |
+| **St. John Henry Newman** (1835) | Reports the Fathers; gives no name | He reports that Irenaeus and Hippolytus found the number in *Lateinos*, "the name of the last empire," and says such anticipations are not confirmed ([lecture 2](https://newmanreader.org/works/arguments/antichrist/lecture2.html), §4) | No reading of his own | [2](/the-standards#s2), [9](/the-standards#s9) met |
 | **Fr. Charles Arminjon** (1881) | Yes, without a name | The Fathers' search for the key to the number "has come to nothing"; with St. Irenaeus, its meaning is to remain unknown "until the fulfillment" (*The End of the Present World*, pp. 51–52) | Not applicable: he declines to apply it | [1](/the-standards#s1), [9](/the-standards#s9) met |
 | **Fr. Vincent Miceli, S.J.** (1981) | Reports Irenaeus, without a name | He reports Irenaeus's reading of the number, Noah's six hundred years and the cubits of Nebuchadnezzar's statue, and his warning that name-guessing opens "an endless futile activity" (*The Antichrist*, pp. 53, 55); with Newman, the "true meaning of his name will remain a mystery until the historical event" (p. 114). His appendix reprints, without comment, a minister who "wonders if the number 666 could turn out to be the computer code for a world dictator" (p. 281) | Not applicable: he offers no reading of his own | [9](/the-standards#s9) met |
 | **Peter Thiel** | Reports others; gives no name | He reports that Nero's name in Hebrew letters comes to 666 ([*First Things*, November 2025](https://firstthings.com/voyages-to-the-end-of-the-world/)), and that St. Bonaventure applied the number to three errors of the Averroists of his day, not to a man ([*First Things*, August 2026](https://firstthings.com/the-pope-and-the-antichrist/)) | He offers no reading of his own | [2](/the-standards#s2) met as a report |
@@ -33,6 +34,8 @@ On the mark that has drawn the most speculation, Fr. John's reading shows the mo
 Arminjon, with St. Irenaeus, declines to decode the number.
 
 Miceli reports St. Irenaeus's reading of the number and his warning against guessing the name, and offers none of his own.
+
+Newman reports the Fathers' *Lateinos* and declines to confirm it, keeping the reserve of Irenaeus.
 
 These are verdicts on arguments, not on any person.
 

@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-11-15","title":"Revelation 11 Weighed: The Two Witnesses | Apocalypse 13","description":"Revelation 11:3–12: the two witnesses. Five readings, Fr. John's proposal of Elijah and Pope Leo XIV included, weighed by the same standards.","kicker":"Revelation 11 weighed","h1":"The Two Witnesses","lead":"Two prophets in sackcloth, killed by the beast and raised by God: what each reading makes of them, and whether a living man can be named as one.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 11","/the-two-witnesses"]],"wide":true}-->
+<!--{"reviewed":"2026-11-15","title":"Revelation 11 Weighed: The Two Witnesses | Apocalypse 13","description":"Revelation 11:3–12: the two witnesses. Six readings, Fr. John's proposal of Elijah and Pope Leo XIV included, weighed by the same standards.","kicker":"Revelation 11 weighed","h1":"The Two Witnesses","lead":"Two prophets in sackcloth, killed by the beast and raised by God: what each reading makes of them, and whether a living man can be named as one.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Revelation 11","/the-two-witnesses"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -13,11 +13,12 @@ Read in context ([Standard 4](/the-standards#s4)), the passage gives four things
 
 </div>
 
-## The five readings
+## The six readings
 
 | Reading | What it holds | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Not taken up in *Against Heresies* V | — | Not applicable | — |
+| **St. John Henry Newman** (1835) | Not taken up in his own voice | In a postscript he prints Bishop Horsley's letter, which reads "the sackcloth ministry of the witnesses" as the faithful remnant of the Church ([lecture 4](https://newmanreader.org/works/arguments/antichrist/lecture4.html)) | Not applicable | — |
 | **Fr. Charles Arminjon** (1881) | Enoch and Elijah, kept alive by God for this mission | Bede, Anselm and Augustine (*The End of the Present World*, pp. 52–56; n. 30); Elijah's preaching turns Israel to Christ, "to form with the Christians one flock and one fold" (p. 54) | No application to test; the Fathers do not agree on Enoch | [1](/the-standards#s1), [2](/the-standards#s2), [17](/the-standards#s17) met |
 | **Fr. Vincent Miceli, S.J.** (1981) | Elias and Enoch, testifying 1,260 days and dying for their witness | *The Antichrist*, pp. 34, 42–43; he reports Gregory the Great and Adso to the same effect (pp. 78–79, 94) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [17](/the-standards#s17) met |
 | **Peter Thiel** | Not in the material reviewed | — | Not applicable | — |

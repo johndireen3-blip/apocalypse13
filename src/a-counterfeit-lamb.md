@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 4 Weighed: A Counterfeit Lamb | Apocalypse 13","description":"Revelation 13, mark 4: the second beast, horned like a lamb, speaking like a dragon. Five readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 4 weighed","h1":"A Counterfeit Lamb","lead":"The false prophet looks like a lamb and speaks like the dragon: what each reading points to, and whether it shows a voice that deceives or only a quiet manner.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 4","/a-counterfeit-lamb"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 4 Weighed: A Counterfeit Lamb | Apocalypse 13","description":"Revelation 13, mark 4: the second beast, horned like a lamb, speaking like a dragon. Six readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 4 weighed","h1":"A Counterfeit Lamb","lead":"The false prophet looks like a lamb and speaks like the dragon: what each reading points to, and whether it shows a voice that deceives or only a quiet manner.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 4","/a-counterfeit-lamb"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
@@ -14,11 +14,12 @@ Read in context ([Standard 4](/the-standards#s4)), the mark has three parts: a l
 
 </div>
 
-## The five readings
+## The six readings
 
 | Reading | Claims mark 4? | Evidence it gives | What weighs against | Standards |
 | --- | --- | --- | --- | --- |
 | **St. Irenaeus** | Yes | The second beast is the first beast's "armour-bearer, whom he also terms a false prophet," working wonders by magic to lead the earth astray (*Against Heresies* V.28.2); St. Hippolytus adds that the lamb's horns counterfeit the Son of God (*On Christ and Antichrist* 49) | No application to test | [1](/the-standards#s1), [2](/the-standards#s2), [16](/the-standards#s16), [17](/the-standards#s17) met |
+| **St. John Henry Newman** (1835) | Not found in the four lectures | — | Not applicable | — |
 | **Fr. Charles Arminjon** (1881) | Not addressed | He reads one beast only; the fire from heaven and the speaking image, which Revelation gives the second beast, he gives to the Antichrist himself (*The End of the Present World*, p. 47) | Not applicable | — |
 | **Fr. Vincent Miceli, S.J.** (1981) | Yes | The beast from the earth "has two horns like those of a lamb, but it speaks as does a dragon" and "leads nations to the worship of its master" (*The Antichrist*, p. 37); it is the false prophet of Revelation 20:10 (p. 38). He reports St. Augustine's different reading, in which the second beast is "his false prophet, the Antichrist" (p. 75). He sets the claim that an antipope will be the second beast among "personal speculations presented as historical facts" (p. 16), and calls one such scheme "naive theology-fiction" that "runs counter to all Catholic teaching" (p. 99). In ch. 9 he calls dissenting theologians "mini-antichrists within the Church" (p. 178), but identifies no churchman with the false prophet | No application to test | [1](/the-standards#s1), [16](/the-standards#s16), [19](/the-standards#s19) met |
 | **Peter Thiel** | Not in the material reviewed | — | Not applicable | — |
