@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"How This Site Is Made | Apocalypse 13","description":"How Apocalypse 13 is made: who does what, how readings are weighed, the rules every page follows, and how to report a mistake.","kicker":"About this site","h1":"How This Site Is Made","crumbs":[["Home","/"],["How This Site Is Made","/how-this-site-is-made"]]}-->
+<!--{"reviewed":"2026-11-20","title":"How This Site Is Made | Apocalypse 13","description":"How Apocalypse 13 is made: who does what, how readings are weighed, the rules every page follows, and how to report a mistake.","kicker":"About this site","h1":"How This Site Is Made","crumbs":[["Home","/"],["How This Site Is Made","/how-this-site-is-made"]]}-->
 <div markdown="0">
 
 
@@ -30,7 +30,7 @@
 <li><strong>Fr. John decides</strong> which proposals are added. Not every one can be, and a proposal left out is not thereby judged wrong.</li>
 <li><strong>Stated at its best first.</strong> A proposal that is added is first written up as its holder would state it (<a href="/the-standards#s29">Standard 29</a>), and the sender is asked to confirm that it is fairly put.</li>
 <li><strong>Weighed like the rest.</strong> It is then weighed mark by mark against the same thirty standards as every other reading, Fr. John's included, and the case against it is stated as fairly as the case for.</li>
-<li><strong>The same rules.</strong> The seven rules below apply to it in full: no dates, living persons only within the attributed proposal and with the case against beside them, nothing that stirs hostility toward any person or people, and every claim checkable.</li>
+<li><strong>The same rules.</strong> The seven rules below apply to it in full: no dates, living persons only within the attributed proposal and with the case against beside them, nothing that stirs hostility toward any person or people (<em>Nostra Aetate</em> 4), and every claim checkable.</li>
 <li><strong>Named only with permission.</strong> A sender is named only if they agree; otherwise the proposal appears as a reader's. Private letters are not quoted without consent.</li>
 </ul>
 
