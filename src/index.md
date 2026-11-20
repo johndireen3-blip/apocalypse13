@@ -1,6 +1,10 @@
 <!--{"reviewed":"2026-10-26","title":"Apocalypse 13: Readings of Revelation 13 Weighed","description":"Readings of Revelation 13, Fr. John's included, weighed against Scripture's marks and the Church's standards. Verdicts on arguments, never on persons.","kicker":"Revelation 13: the readings weighed","h1":"Apocalypse 13","lead":"Many people read Revelation 13 as being fulfilled in our time. Here their readings are set side by side and weighed by the same standards, so readers can judge the arguments for themselves.","wide":true}-->
 <div class="narrow-in" markdown>
 
+## Why this site exists
+
+Since 2024 the technology investor Peter Thiel has lectured widely on the Antichrist, in the United States and abroad, including in Rome, and he has published his reading in *First Things*. His proposal has drawn wide attention, and Catholic voices have answered it. This site sets his proposal beside what Scripture's own notes, the Fathers and the Church's writers have said over the centuries, and weighs each by the same standards. It adds Fr. John's own proposal, weighed in exactly the same way. And it invites others to take part: if you have a reading of Revelation 13 of your own, or thoughts on any of these, write through the [Contact](/contact) page. A proposal sent with its reasons may be stated at its best on [The Proposals](/the-proposals) and weighed like the rest.
+
 ## How this site works
 
 Every reading is weighed in two ways. First, against the **marks**: what Scripture and the Church reveal about the beasts, set out in depth on [The First Beast](https://thefirstbeast.com/marks). Second, against the **[standards](/the-standards)**: the Church's own criteria for reading Scripture, and the tests that follow from them.
@@ -17,9 +21,11 @@ For each mark, the site asks of every reading the same questions: does it claim 
 
 <div class="narrow-in" markdown>
 
-## The first marks weighed
+## The marks weighed
 
-The site is being built a mark at a time, beginning with the beast from the sea in Revelation 13. These are ready to read, as drafts:
+Every mark of Revelation 13 is now weighed, each page read and approved by Fr. John, and the site continues to grow. The marks are grouped as Revelation gives them.
+
+### The beast from the sea
 
 - [Mark 1: Power on loan from the dragon](/power-from-the-dragon)
 - [Mark 2: Built from Daniel's beasts](/built-from-daniels-beasts)
@@ -30,14 +36,26 @@ The site is being built a mark at a time, beginning with the beast from the sea 
 - [Mark 8: Universal reach](/universal-reach)
 - [Mark 12: A limited time](/a-limited-time)
 - [Mark 13: A number that calls for wisdom](/a-number-for-wisdom)
-- [Mark 14: The response asked of the faithful](/the-response-of-the-faithful)
-- [Mark 4: A counterfeit lamb](/a-counterfeit-lamb), the first mark of the beast from the earth
+
+### The beast from the earth, the false prophet
+
+- [Mark 4: A counterfeit lamb](/a-counterfeit-lamb)
 - [Mark 9: Deception by signs](/deception-by-signs)
 - [Mark 10: An image that speaks](/an-image-that-speaks)
 - [Mark 11: Control of buying and selling](/buying-and-selling)
-- [Revelation 17: The harlot and the ten kings](/the-harlot-and-the-ten-kings)
+
+### The faithful
+
+- [Mark 14: The response asked of the faithful](/the-response-of-the-faithful)
+
+### Beyond Revelation 13
+
+- [Revelation 9:6: They will seek death and not find it](/they-will-seek-death)
 - [Revelation 11: The two witnesses](/the-two-witnesses)
 - [Revelation 16: The three frogs](/the-three-frogs)
+- [Revelation 17: The harlot and the ten kings](/the-harlot-and-the-ten-kings)
+
+And where each reading stands on fourteen related questions, from the apostasy that comes first to the restrainer and the end: [Beyond Revelation 13](/marks#beyond).
 
 ## Fr. John's own reading is weighed too
 
