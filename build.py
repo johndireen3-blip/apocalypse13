@@ -21,6 +21,7 @@ CONFIG = {
             ("/the-standards", "The Standards"), ("/about", "About"), ("/contact", "Contact")],
     "family": [("https://thefirstbeast.com/", "The First Beast", "the revealed marks, set out in depth"),
                ("https://apocalypse12.org/", "The Woman & the Dragon", "Fr. John's own reading of Revelation 12 and 13"),
+               ("https://apocalypse12.com/", "The Woman and the Ark", "Revelation 12 in depth"),
                ("https://thelambsvictory.org/", "The Lamb's Victory", "Revelation chapter by chapter"),
                ("https://agreatsign.si/", "A Great Sign", "prophecy across the whole Bible")],
     "family_soon": [],
