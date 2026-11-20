@@ -3,7 +3,7 @@
 
 
 <h2>Why this site exists</h2>
-<p>Apocalypse 13 is part of The Ephesus Challenge, a family of websites on the Book of Revelation and Christian hope that Fr. John founded and directs. It weighs readings of Revelation 13, his own included, against the marks Scripture reveals and the Church's standards for reading Scripture. Its pages are researched and written by Claude, an AI model made by Anthropic, under Fr. John's direction.</p>
+<p>Apocalypse 13 is part of The Ephesus Challenge, a family of websites on the Book of Revelation and Christian hope that Fr. John founded and directs. It weighs readings of Revelation 13, his own included, against the marks Scripture reveals and the Church's standards for reading Scripture. It began as a test of one proposal that has drawn wide attention since 2024, Peter Thiel's, set beside what Scripture's notes, the Fathers and the Church's writers have said over the centuries; Fr. John's own proposal is weighed in exactly the same way, and readers are invited to send theirs (<a href="#proposals">see below</a>). Its pages are researched and written by Claude, an AI model made by Anthropic, under Fr. John's direction.</p>
 <h3>Fr. John's vision for the project</h3>
 <p>The project began from a simple hope. For millennia humanity has contemplated God's plan of creation and salvation, from Genesis 1:1, “In the beginning…”, to the first promise in Genesis 3:15, to the vision of “The New Heaven and the New Earth” (Revelation 21) and the proclamation “I am the Alpha and the Omega, the first and the last, the beginning and the end” (Revelation 22:13). That inheritance is vast and often hard to reach. An AI model can help gather it together through research and organization, making it accessible, and presenting this knowledge to help us better comprehend the big picture.</p>
 <p>The project also takes its cue from Pope Leo XIV's first encyclical, <a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html" target="_blank" rel="noopener"><em>Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence</em></a>, presented at the Vatican on May 25, 2026, where Anthropic co-founder Christopher Olah spoke. Many people fear what AI may do. This project tries to show, openly and page by page, what AI can do in the service of the truth when it works within clear rules and under human direction.</p>
@@ -22,6 +22,17 @@
 <h2>How readings are weighed</h2>
 <p>Every reading is asked the same questions for each mark: does it claim the mark, what evidence does it give, what weighs against it, and which of the <a href="/the-standards">standards</a> does it meet. Evidence states its source and how reliable it is; evidence against is recorded as faithfully as evidence for; fringe sources appear only as low-weight claims circulating, never as evidence.</p>
 <p>Conclusions are verdicts on arguments, never on persons. The site never says that anyone is or is not the Antichrist (1 John 2:18), never counts forward, and never names a date.</p>
+<p>In the tables the two readings of our time come first, Peter Thiel's and then Fr. John's, so that the director's own reading never stands at the head; the readings of the tradition follow in order of date.</p>
+
+<h2 id="proposals">Proposals sent by readers</h2>
+<p>Anyone may send a reading of Revelation 13, or thoughts on one weighed here, through the <a href="/contact">Contact</a> page. A proposal is easiest to weigh when it gives its reasons and its sources.</p>
+<ul>
+<li><strong>Fr. John decides</strong> which proposals are added. Not every one can be, and a proposal left out is not thereby judged wrong.</li>
+<li><strong>Stated at its best first.</strong> A proposal that is added is first written up as its holder would state it (<a href="/the-standards#s29">Standard 29</a>), and the sender is asked to confirm that it is fairly put.</li>
+<li><strong>Weighed like the rest.</strong> It is then weighed mark by mark against the same thirty standards as every other reading, Fr. John's included, and the case against it is stated as fairly as the case for.</li>
+<li><strong>The same rules.</strong> The seven rules below apply to it in full: no dates, living persons only within the attributed proposal and with the case against beside them, nothing that stirs hostility toward any person or people, and every claim checkable.</li>
+<li><strong>Named only with permission.</strong> A sender is named only if they agree; otherwise the proposal appears as a reader's. Private letters are not quoted without consent.</li>
+</ul>
 
 <h2>The rules Claude works within</h2>
 <p>Fr. John set seven rules for the whole project. Claude follows them on every page, and they are the guardrails this project is meant to show at work.</p>
