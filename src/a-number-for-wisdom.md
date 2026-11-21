@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 13 Weighed: The Number 666 | Apocalypse 13","description":"Revelation 13, mark 13: the number of the beast, 666. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 13 weighed","h1":"A Number That Calls for Wisdom","lead":"Six hundred and sixty-six, a number that stands for a person: what each reading does with it, and whether it keeps the wisdom the text asks for.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 13","/a-number-for-wisdom"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"The Number 666: Revelation 13 Readings Weighed","description":"Revelation 13, mark 13: the number of the beast, 666. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 13 weighed","h1":"A Number That Calls for Wisdom","lead":"Six hundred and sixty-six, a number that stands for a person: what each reading does with it, and whether it keeps the wisdom the text asks for.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 13","/a-number-for-wisdom"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">

@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 12 Weighed: A Limited Time | Apocalypse 13","description":"Revelation 13, mark 12: the forty-two months, with no date set. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 12 weighed","h1":"A Limited Time","lead":"The beast's authority is given for forty-two months: what each reading does with the number, and whether it keeps the Church's rule against setting dates.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 12","/a-limited-time"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"A Limited Time: Revelation 13 Readings Weighed","description":"Revelation 13, mark 12: the forty-two months, with no date set. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 12 weighed","h1":"A Limited Time","lead":"The beast's authority is given for forty-two months: what each reading does with the number, and whether it keeps the Church's rule against setting dates.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 12","/a-limited-time"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">

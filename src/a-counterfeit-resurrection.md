@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 3 Weighed: A Counterfeit Resurrection | Apocalypse 13","description":"Revelation 13, mark 3: the head that seemed mortally wounded and was healed. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 3 weighed","h1":"A Counterfeit Resurrection","lead":"A wound that seemed mortal, a healing, and a world that follows in fascination: how each reading meets all three.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 3","/a-counterfeit-resurrection"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"A Counterfeit Resurrection: Revelation 13 Readings Weighed","description":"Revelation 13, mark 3: the head that seemed mortally wounded and was healed. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 3 weighed","h1":"A Counterfeit Resurrection","lead":"A wound that seemed mortal, a healing, and a world that follows in fascination: how each reading meets all three.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 3","/a-counterfeit-resurrection"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">

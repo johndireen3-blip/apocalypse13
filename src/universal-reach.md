@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-10-26","title":"Revelation 13, Mark 8 Weighed: Universal Reach | Apocalypse 13","description":"Revelation 13, mark 8: authority over every tribe, tongue and nation. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 8 weighed","h1":"Universal Reach","lead":"Authority over every tribe, people, tongue and nation: what each reading points to, and whether it shows authority or only influence.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 8","/universal-reach"]],"wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"Universal Reach: Revelation 13 Readings Weighed","description":"Revelation 13, mark 8: authority over every tribe, tongue and nation. Seven readings, Fr. John's included, weighed by the same standards.","kicker":"Mark 8 weighed","h1":"Universal Reach","lead":"Authority over every tribe, people, tongue and nation: what each reading points to, and whether it shows authority or only influence.","crumbs":[["Home","/"],["The Marks Weighed","/marks"],["Mark 8","/universal-reach"]],"wide":true}-->
 <div class="narrow-in" markdown>
 
 <dl class="facts">
