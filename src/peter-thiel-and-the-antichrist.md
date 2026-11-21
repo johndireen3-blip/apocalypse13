@@ -4,7 +4,7 @@
 <dl class="facts">
 <dt>In one sentence</dt><dd>Peter Thiel argues that the Antichrist of our age will be a world government that wins power by promising "peace and safety" from catastrophe and then halts science and technology.</dd>
 <dt>Who he is</dt><dd>A technology investor, co-founder of PayPal and Palantir. He is not a Catholic, and he does not claim to speak for the Church.</dd>
-<dt>What is weighed</dt><dd>His arguments, never the man. His published words are weighed first. His private lectures are cited only as the press has reported them, and are marked as such ([Standard 7](/the-standards#s7)).</dd>
+<dt>What is weighed</dt><dd>His arguments, never the man. His published words are weighed first. His private lectures are cited only as the press has reported them, and are marked as such (<a href="/the-standards#s7">Standard 7</a>).</dd>
 <dt>Authority</dt><dd>[[auth:theologian]]</dd>
 </dl>
 
