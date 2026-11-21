@@ -3,7 +3,7 @@
 
 ## Why this site exists
 
-Since 2024 the technology investor Peter Thiel has lectured widely on the Antichrist, in the United States and abroad, including in Rome, and he has published his reading in *First Things*. His proposal has drawn wide attention, and Catholic voices have answered it. This site sets his proposal beside what Scripture's own notes, the Fathers and the Church's writers have said over the centuries, and weighs each by the same standards. It adds Fr. John's own proposal, weighed in exactly the same way. And it invites others to take part: if you have a reading of Revelation 13 of your own, or thoughts on any of these, write through the [Contact](/contact) page. A proposal sent with its reasons may be stated at its best on [The Proposals](/the-proposals) and weighed like the rest.
+Since 2024 the technology investor Peter Thiel has lectured widely on the Antichrist, in the United States and abroad, including in Rome, and he has published his reading in *First Things*. His proposal has drawn wide attention, and Catholic voices have answered it. What he argues, and how it fares, is set out on [Peter Thiel and the Antichrist](/peter-thiel-and-the-antichrist). This site sets his proposal beside what Scripture's own notes, the Fathers and the Church's writers have said over the centuries, and weighs each by the same standards. It adds Fr. John's own proposal, weighed in exactly the same way. And it invites others to take part: if you have a reading of Revelation 13 of your own, or thoughts on any of these, write through the [Contact](/contact) page. A proposal sent with its reasons may be stated at its best on [The Proposals](/the-proposals) and weighed like the rest.
 
 ## How this site works
 

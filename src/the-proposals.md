@@ -71,7 +71,7 @@ In four private lectures in 2025, known through press reports, he was sharper: "
 
 Catholic voices have answered him. Fr. Paolo Benanti, who has advised two popes on technology, called him "a political theologian operating at the very heart of the Silicon Valley ecosystem," and *Avvenire*, the Italian bishops' newspaper, wrote that his definition could apply to "anyone who places limits on unlimited progress" ([Fortune](https://fortune.com/2026/03/16/peter-thiel-antichrist-theory-rome-lectures-vatican-response/)). The theologian Douglas Farrow asks of the two authors, "Why do they show no interest in Jesus Christ?" ([Farrow](https://douglasfarrow.substack.com/p/corrupting-the-katechon)).
 
-His published words are weighed here first. His private lectures are cited only as reported in the press and are marked as such.
+His published words are weighed here first. His private lectures are cited only as reported in the press and are marked as such. His reading has a page of its own, with a timeline of where he has spoken and how it fares mark by mark: [Peter Thiel and the Antichrist](/peter-thiel-and-the-antichrist).
 
 </div>
 
