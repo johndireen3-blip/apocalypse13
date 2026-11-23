@@ -1,4 +1,4 @@
-<!--{"reviewed":"2026-11-20","title":"Apocalypse 13: Readings of Revelation 13 Weighed","description":"Readings of Revelation 13, Fr. John's included, weighed against Scripture's marks and the Church's standards. Verdicts on arguments, never on persons.","kicker":"Revelation 13: the readings weighed","h1":"Apocalypse 13","lead":"Many people read Revelation 13 as being fulfilled in our time. Here their readings are set side by side and weighed by the same standards, so readers can judge the arguments for themselves.","wide":true}-->
+<!--{"reviewed": "2026-11-20", "title": "Who Is the Antichrist? Readings of Revelation 13 Weighed", "description": "Who is the Antichrist? Readings of Revelation 13 weighed by Scripture's marks and the Church's standards. Verdicts on arguments, never on persons.", "kicker": "Revelation 13: the readings weighed", "h1": "Apocalypse 13", "lead": "Many people read Revelation 13 as being fulfilled in our time. Here their readings are set side by side and weighed by the same standards, so readers can judge the arguments for themselves.", "wide": true}-->
 <div class="narrow-in" markdown>
 
 ## Why this site exists
@@ -15,7 +15,7 @@ For each mark, the site asks of every reading the same questions: does it claim 
 
 <div class="grid" style="margin-top:28px">
 <a class="card door" href="/marks"><span class="num">Layer 1</span><h3>The marks weighed</h3><p>One mark at a time, the readings side by side.</p></a>
-<a class="card door" href="/the-proposals"><span class="num">The readings</span><h3>The proposals</h3><p>The first-century reading of the scholars, a classic reading from the Fathers, Newman's gathering of them, Arminjon's synthesis of the tradition, Miceli's caution, Peter Thiel's, and Fr. John's own.</p></a>
+<a class="card door" href="/the-proposals"><span class="num">The readings</span><h3>Who is the beast? The proposals</h3><p>The first-century reading of the scholars, a classic reading from the Fathers, Newman's gathering of them, Arminjon's synthesis of the tradition, Miceli's caution, Peter Thiel's, and Fr. John's own.</p></a>
 <a class="card door" href="/the-standards"><span class="num">Layer 2</span><h3>The standards</h3><p>Thirty questions every reading is asked, beginning with the Church's criteria.</p></a>
 </div>
 
