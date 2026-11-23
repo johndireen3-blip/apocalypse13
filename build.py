@@ -23,7 +23,8 @@ CONFIG = {
                ("https://apocalypse12.org/", "The Woman & the Dragon", "Fr. John's own reading of Revelation 12 and 13"),
                ("https://apocalypse12.com/", "The Woman and the Ark", "Revelation 12 in depth"),
                ("https://thelambsvictory.org/", "The Lamb's Victory", "Revelation chapter by chapter"),
-               ("https://agreatsign.si/", "A Great Sign", "prophecy across the whole Bible")],
+               ("https://agreatsign.si/", "A Great Sign", "prophecy across the whole Bible"),
+               ("https://revelation13.blog/", "The Ephesus Challenge", "Fr. John's journal")],
     "family_soon": [],
     # A plumb line (Amos 7:7–8): the standard every reading is held to.
     "logo": ('<svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="30" fill="#173f48"/>'
