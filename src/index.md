@@ -1,5 +1,11 @@
-<!--{"reviewed": "2026-11-20", "title": "Who Is the Antichrist? Readings of Revelation 13 Weighed", "description": "Who is the Antichrist? Readings of Revelation 13 weighed by Scripture's marks and the Church's standards. Verdicts on arguments, never on persons.", "kicker": "Revelation 13: the readings weighed", "h1": "Apocalypse 13", "lead": "Many people read Revelation 13 as being fulfilled in our time. Here their readings are set side by side and weighed by the same standards, so readers can judge the arguments for themselves.", "wide": true}-->
+<!--{"reviewed": "2026-11-23", "title": "Who Is the Antichrist? Readings of Revelation 13 Weighed", "description": "Who is the Antichrist? Readings of Revelation 13 weighed by Scripture's marks and the Church's standards. Verdicts on arguments, never on persons.", "kicker": "Revelation 13: the readings weighed", "h1": "Who is the Antichrist?", "lead": "No one on earth knows, and this site will not tell you.", "wide": true}-->
 <div class="narrow-in" markdown>
+
+What it does is weigh the readings people propose — seven so far. Peter Thiel's points to a world government that would promise "peace and safety" and halt technology. Fr. John's weighs the acts of President Donald J. Trump. Each is tested against Scripture, the Church's standards and mainstream scholarship, so you can see how such a claim is made and how well it stands.
+
+The Church teaches that before Christ returns she must pass through a final trial that will shake the faith of many, and that its supreme deception is that of the Antichrist (CCC 675–677). She has never named him, and neither does Scripture. What Revelation 13 gives instead is a set of marks — fourteen of them — by which any claim can be tested.
+
+Fr. John's is the one reading here that names a living man, and it is weighed like the rest: mark by mark, graded possible or probable and never settled, with the case against set down as plainly as the case for. The verdicts fall on arguments, never on persons.
 
 ## Why this site exists
 
