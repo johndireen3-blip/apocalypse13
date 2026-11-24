@@ -5,7 +5,7 @@ What it does is weigh the readings people propose — seven so far. Peter Thiel'
 
 The Church teaches that before Christ returns she must pass through a final trial that will shake the faith of many, and that its supreme deception is that of the Antichrist (CCC 675–677). She has never named him, and neither does Scripture. What Revelation 13 gives instead is a set of marks — fourteen of them — by which any claim can be tested.
 
-Fr. John's is the one reading here that names a living man, and it is weighed like the rest: mark by mark, graded possible or probable and never settled, with the case against set down as plainly as the case for. The verdicts fall on arguments, never on persons.
+Fr. John's is [the one reading here that names a living man](/the-proposals#fr-john), and it is weighed like the rest: mark by mark, graded possible or probable and never settled, with the case against set down as plainly as the case for. The verdicts fall on arguments, never on persons.
 
 ## Why this site exists
 
