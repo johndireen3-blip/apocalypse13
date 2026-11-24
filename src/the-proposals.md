@@ -1,7 +1,19 @@
 <!--{"reviewed": "2026-11-20", "title": "Who Is the Beast of Revelation 13? Seven Readings Weighed", "description": "Seven answers to who the beast of Revelation 13 is — from Rome and the Fathers to Peter Thiel and Fr. John's own — each stated at its best, then weighed.", "kicker": "The readings", "h1": "The Proposals", "lead": "Each reading is first stated as its holder would state it, before anything is weighed (Standard 29).", "crumbs": [["Home", "/"], ["The Proposals", "/the-proposals"]]}-->
 Seven readings are weighed so far. More will be added, including readers' own ([how to send one](/how-this-site-is-made#proposals)), each stated at its best before it is tested ([Standard 29](/the-standards#s29)). Weighing an interpreter's proposal is not a verdict on the interpreter. Claude's own view of Revelation 13 is set out apart from the readings, on its own page: [How Claude Reads Revelation 13](/how-claude-reads-revelation-13). It is not weighed in the tables.
 
-<div class="card proposal" markdown>
+**The seven readings** run in the order they were made, from the first century to our own; the order is chronological, not a ranking. Jump to any of them:
+
+- [The first-century reading: Rome and its emperors](#first-century)
+- [St. Irenaeus: the classic reading](#irenaeus)
+- [St. John Henry Newman: the Fathers gathered](#newman)
+- [Fr. Charles Arminjon: the tradition gathered](#arminjon)
+- [Fr. Vincent Miceli, S.J.: theology, not theology-fiction](#miceli)
+- [Peter Thiel: the world state](#thiel)
+- [Fr. John: the American presidency](#fr-john)
+
+How each fares, mark by mark, is set side by side on [The Marks Weighed](/marks).
+
+<div class="card proposal" id="first-century" markdown>
 
 ## The first-century reading: Rome and its emperors [[auth:theologian]]
 
@@ -13,7 +25,7 @@ It is weighed here because it is the main alternative to every reading on this s
 
 </div>
 
-<div class="card proposal" markdown>
+<div class="card proposal" id="irenaeus" markdown>
 
 ## St. Irenaeus: the classic reading [[auth:father]]
 
@@ -23,7 +35,7 @@ He is weighed here as the classic reading because he applies the text to no one 
 
 </div>
 
-<div class="card proposal" markdown>
+<div class="card proposal" id="newman" markdown>
 
 ## St. John Henry Newman: the Fathers gathered [[auth:father]]
 
@@ -35,7 +47,7 @@ He is weighed here as the fullest gathering of the Fathers by a Doctor of the Ch
 
 </div>
 
-<div class="card proposal" markdown>
+<div class="card proposal" id="arminjon" markdown>
 
 ## Fr. Charles Arminjon: the tradition gathered [[auth:theologian]]
 
@@ -47,7 +59,7 @@ He is weighed here as the tradition's synthesis on the eve of the twentieth cent
 
 </div>
 
-<div class="card proposal" markdown>
+<div class="card proposal" id="miceli" markdown>
 
 ## Fr. Vincent Miceli, S.J.: theology, not theology-fiction [[auth:theologian]]
 
@@ -59,7 +71,7 @@ He is weighed here as a modern Catholic theologian writing against the speculati
 
 </div>
 
-<div class="card proposal" markdown>
+<div class="card proposal" id="thiel" markdown>
 
 ## Peter Thiel: the world state [[auth:theologian]]
 
@@ -75,7 +87,7 @@ His published words are weighed here first. His private lectures are cited only 
 
 </div>
 
-<div class="card proposal" markdown>
+<div class="card proposal" id="fr-john" markdown>
 
 ## Fr. John: the American presidency [[auth:proposal]]
 
